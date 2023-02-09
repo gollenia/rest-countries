@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^countries/([a-zA-Z]+)/([a-zA-Z]+) count.php?region=$1&lang=$2 [L]
+RewriteRule ^regions/([a-zA-Z]+) regs.php?lang=$1 [L]
+#RewriteRule ^(.*)$ index.php
