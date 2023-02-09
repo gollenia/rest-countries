@@ -1,0 +1,458 @@
+[
+	{
+		"name": "Argentina",
+		"alpha2Code": "AR",
+		"nativeName": "Argentina",
+		"translations": {
+			"br": "Arc'hantina",
+			"pt": "Argentina",
+			"nl": "Argentinië",
+			"hr": "Argentina",
+			"fa": "آرژانتین",
+			"de": "Argentinien",
+			"es": "Argentina",
+			"fr": "Argentine",
+			"ja": "アルゼンチン",
+			"it": "Argentina",
+			"hu": "Argentína"
+		},
+		"independent": false
+	},
+	{
+		"name": "Belize",
+		"alpha2Code": "BZ",
+		"nativeName": "Belize",
+		"translations": {
+			"br": "Belize",
+			"pt": "Belize",
+			"nl": "Belize",
+			"hr": "Belize",
+			"fa": "بلیز",
+			"de": "Belize",
+			"es": "Belice",
+			"fr": "Belize",
+			"ja": "ベリーズ",
+			"it": "Belize",
+			"hu": "Belize"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bolivia (Plurinational State of)",
+		"alpha2Code": "BO",
+		"nativeName": "Bolivia",
+		"translations": {
+			"br": "Bolivia",
+			"pt": "Bolívia",
+			"nl": "Bolivia",
+			"hr": "Bolivija",
+			"fa": "بولیوی",
+			"de": "Bolivien",
+			"es": "Bolivia",
+			"fr": "Bolivie",
+			"ja": "ボリビア多民族国",
+			"it": "Bolivia",
+			"hu": "Bolívia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Chile",
+		"alpha2Code": "CL",
+		"nativeName": "Chile",
+		"translations": {
+			"br": "Chile",
+			"pt": "Chile",
+			"nl": "Chili",
+			"hr": "Čile",
+			"fa": "شیلی",
+			"de": "Chile",
+			"es": "Chile",
+			"fr": "Chili",
+			"ja": "チリ",
+			"it": "Cile",
+			"hu": "Chile"
+		},
+		"independent": false
+	},
+	{
+		"name": "Colombia",
+		"alpha2Code": "CO",
+		"nativeName": "Colombia",
+		"translations": {
+			"br": "Kolombia",
+			"pt": "Colômbia",
+			"nl": "Colombia",
+			"hr": "Kolumbija",
+			"fa": "کلمبیا",
+			"de": "Kolumbien",
+			"es": "Colombia",
+			"fr": "Colombie",
+			"ja": "コロンビア",
+			"it": "Colombia",
+			"hu": "Kolumbia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Costa Rica",
+		"alpha2Code": "CR",
+		"nativeName": "Costa Rica",
+		"translations": {
+			"br": "Costa Rica",
+			"pt": "Costa Rica",
+			"nl": "Costa Rica",
+			"hr": "Kostarika",
+			"fa": "کاستاریکا",
+			"de": "Costa Rica",
+			"es": "Costa Rica",
+			"fr": "Costa Rica",
+			"ja": "コスタリカ",
+			"it": "Costa Rica",
+			"hu": "Costa Rica"
+		},
+		"independent": false
+	},
+	{
+		"name": "Cuba",
+		"alpha2Code": "CU",
+		"nativeName": "Cuba",
+		"translations": {
+			"br": "Kuba",
+			"pt": "Cuba",
+			"nl": "Cuba",
+			"hr": "Kuba",
+			"fa": "کوبا",
+			"de": "Kuba",
+			"es": "Cuba",
+			"fr": "Cuba",
+			"ja": "キューバ",
+			"it": "Cuba",
+			"hu": "Kuba"
+		},
+		"independent": false
+	},
+	{
+		"name": "Dominican Republic",
+		"alpha2Code": "DO",
+		"nativeName": "República Dominicana",
+		"translations": {
+			"br": "Republik Dominikan",
+			"pt": "República Dominicana",
+			"nl": "Dominicaanse Republiek",
+			"hr": "Dominikanska Republika",
+			"fa": "جمهوری دومینیکن",
+			"de": "Dominikanische Republik",
+			"es": "República Dominicana",
+			"fr": "République dominicaine",
+			"ja": "ドミニカ共和国",
+			"it": "Repubblica Dominicana",
+			"hu": "Dominikai Köztársaság"
+		},
+		"independent": false
+	},
+	{
+		"name": "Ecuador",
+		"alpha2Code": "EC",
+		"nativeName": "Ecuador",
+		"translations": {
+			"br": "Ecuador",
+			"pt": "Equador",
+			"nl": "Ecuador",
+			"hr": "Ekvador",
+			"fa": "اکوادور",
+			"de": "Ecuador",
+			"es": "Ecuador",
+			"fr": "Équateur",
+			"ja": "エクアドル",
+			"it": "Ecuador",
+			"hu": "Ecuador"
+		},
+		"independent": false
+	},
+	{
+		"name": "El Salvador",
+		"alpha2Code": "SV",
+		"nativeName": "El Salvador",
+		"translations": {
+			"br": "El Salvador",
+			"pt": "El Salvador",
+			"nl": "El Salvador",
+			"hr": "Salvador",
+			"fa": "السالوادور",
+			"de": "El Salvador",
+			"es": "El Salvador",
+			"fr": "Salvador",
+			"ja": "エルサルバドル",
+			"it": "El Salvador",
+			"hu": "Salvador"
+		},
+		"independent": false
+	},
+	{
+		"name": "Equatorial Guinea",
+		"alpha2Code": "GQ",
+		"nativeName": "Guinea Ecuatorial",
+		"translations": {
+			"br": "Ginea ar C'heheder",
+			"pt": "Guiné Equatorial",
+			"nl": "Equatoriaal-Guinea",
+			"hr": "Ekvatorijalna Gvineja",
+			"fa": "گینه استوایی",
+			"de": "Äquatorial-Guinea",
+			"es": "Guinea Ecuatorial",
+			"fr": "Guinée-Équatoriale",
+			"ja": "赤道ギニア",
+			"it": "Guinea Equatoriale",
+			"hu": "Egyenlítői-Guinea"
+		},
+		"independent": false
+	},
+	{
+		"name": "Guam",
+		"alpha2Code": "GU",
+		"nativeName": "Guam",
+		"translations": {
+			"br": "Guam",
+			"pt": "Guame",
+			"nl": "Guam",
+			"hr": "Guam",
+			"fa": "گوام",
+			"de": "Guam",
+			"es": "Guam",
+			"fr": "Guam",
+			"ja": "グアム",
+			"it": "Guam",
+			"hu": "Guam"
+		},
+		"independent": false
+	},
+	{
+		"name": "Guatemala",
+		"alpha2Code": "GT",
+		"nativeName": "Guatemala",
+		"translations": {
+			"br": "Guatemala",
+			"pt": "Guatemala",
+			"nl": "Guatemala",
+			"hr": "Gvatemala",
+			"fa": "گواتمالا",
+			"de": "Guatemala",
+			"es": "Guatemala",
+			"fr": "Guatemala",
+			"ja": "グアテマラ",
+			"it": "Guatemala",
+			"hu": "Guatemala"
+		},
+		"independent": false
+	},
+	{
+		"name": "Honduras",
+		"alpha2Code": "HN",
+		"nativeName": "Honduras",
+		"translations": {
+			"br": "Honduras",
+			"pt": "Honduras",
+			"nl": "Honduras",
+			"hr": "Honduras",
+			"fa": "هندوراس",
+			"de": "Honduras",
+			"es": "Honduras",
+			"fr": "Honduras",
+			"ja": "ホンジュラス",
+			"it": "Honduras",
+			"hu": "Honduras"
+		},
+		"independent": false
+	},
+	{
+		"name": "Mexico",
+		"alpha2Code": "MX",
+		"nativeName": "México",
+		"translations": {
+			"br": "Mec'hiko",
+			"pt": "México",
+			"nl": "Mexico",
+			"hr": "Meksiko",
+			"fa": "مکزیک",
+			"de": "Mexiko",
+			"es": "México",
+			"fr": "Mexique",
+			"ja": "メキシコ",
+			"it": "Messico",
+			"hu": "Mexikó"
+		},
+		"independent": false
+	},
+	{
+		"name": "Nicaragua",
+		"alpha2Code": "NI",
+		"nativeName": "Nicaragua",
+		"translations": {
+			"br": "Nicaragua",
+			"pt": "Nicarágua",
+			"nl": "Nicaragua",
+			"hr": "Nikaragva",
+			"fa": "نیکاراگوئه",
+			"de": "Nicaragua",
+			"es": "Nicaragua",
+			"fr": "Nicaragua",
+			"ja": "ニカラグア",
+			"it": "Nicaragua",
+			"hu": "Nicaragua"
+		},
+		"independent": false
+	},
+	{
+		"name": "Panama",
+		"alpha2Code": "PA",
+		"nativeName": "Panamá",
+		"translations": {
+			"br": "Panama",
+			"pt": "Panamá",
+			"nl": "Panama",
+			"hr": "Panama",
+			"fa": "پاناما",
+			"de": "Panama",
+			"es": "Panamá",
+			"fr": "Panama",
+			"ja": "パナマ",
+			"it": "Panama",
+			"hu": "Panama"
+		},
+		"independent": false
+	},
+	{
+		"name": "Paraguay",
+		"alpha2Code": "PY",
+		"nativeName": "Paraguay",
+		"translations": {
+			"br": "Paraguay",
+			"pt": "Paraguai",
+			"nl": "Paraguay",
+			"hr": "Paragvaj",
+			"fa": "پاراگوئه",
+			"de": "Paraguay",
+			"es": "Paraguay",
+			"fr": "Paraguay",
+			"ja": "パラグアイ",
+			"it": "Paraguay",
+			"hu": "Paraguay"
+		},
+		"independent": false
+	},
+	{
+		"name": "Peru",
+		"alpha2Code": "PE",
+		"nativeName": "Perú",
+		"translations": {
+			"br": "Perou",
+			"pt": "Peru",
+			"nl": "Peru",
+			"hr": "Peru",
+			"fa": "پرو",
+			"de": "Peru",
+			"es": "Perú",
+			"fr": "Pérou",
+			"ja": "ペルー",
+			"it": "Perù",
+			"hu": "Peru"
+		},
+		"independent": false
+	},
+	{
+		"name": "Puerto Rico",
+		"alpha2Code": "PR",
+		"nativeName": "Puerto Rico",
+		"translations": {
+			"br": "Puerto Rico",
+			"pt": "Porto Rico",
+			"nl": "Puerto Rico",
+			"hr": "Portoriko",
+			"fa": "پورتو ریکو",
+			"de": "Puerto Rico",
+			"es": "Puerto Rico",
+			"fr": "Porto Rico",
+			"ja": "プエルトリコ",
+			"it": "Porto Rico",
+			"hu": "Puerto Rico"
+		},
+		"independent": false
+	},
+	{
+		"name": "Spain",
+		"alpha2Code": "ES",
+		"nativeName": "España",
+		"translations": {
+			"br": "Spagn",
+			"pt": "Espanha",
+			"nl": "Spanje",
+			"hr": "Španjolska",
+			"fa": "اسپانیا",
+			"de": "Spanien",
+			"es": "España",
+			"fr": "Espagne",
+			"ja": "スペイン",
+			"it": "Spagna",
+			"hu": "Spanyolország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Uruguay",
+		"alpha2Code": "UY",
+		"nativeName": "Uruguay",
+		"translations": {
+			"br": "Uruguay",
+			"pt": "Uruguai",
+			"nl": "Uruguay",
+			"hr": "Urugvaj",
+			"fa": "اروگوئه",
+			"de": "Uruguay",
+			"es": "Uruguay",
+			"fr": "Uruguay",
+			"ja": "ウルグアイ",
+			"it": "Uruguay",
+			"hu": "Uruguay"
+		},
+		"independent": false
+	},
+	{
+		"name": "Venezuela (Bolivarian Republic of)",
+		"alpha2Code": "VE",
+		"nativeName": "Venezuela",
+		"translations": {
+			"br": "Venezuela",
+			"pt": "Venezuela",
+			"nl": "Venezuela",
+			"hr": "Venezuela",
+			"fa": "ونزوئلا",
+			"de": "Venezuela",
+			"es": "Venezuela",
+			"fr": "Venezuela",
+			"ja": "ベネズエラ・ボリバル共和国",
+			"it": "Venezuela",
+			"hu": "Venezuela"
+		},
+		"independent": false
+	},
+	{
+		"name": "Western Sahara",
+		"alpha2Code": "EH",
+		"nativeName": "الصحراء الغربية",
+		"translations": {
+			"br": "Sahara ar C'hornôg",
+			"pt": "Saara Ocidental",
+			"nl": "Westelijke Sahara",
+			"hr": "Zapadna Sahara",
+			"fa": "جمهوری دموکراتیک عربی صحرا",
+			"de": "Westsahara",
+			"es": "Sahara Occidental",
+			"fr": "Sahara Occidental",
+			"ja": "西サハラ",
+			"it": "Sahara Occidentale",
+			"hu": "Nyugat-Szahara"
+		},
+		"independent": false
+	}
+]

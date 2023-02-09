@@ -1,0 +1,1731 @@
+[
+	{
+		"name": "American Samoa",
+		"alpha2Code": "AS",
+		"nativeName": "American Samoa",
+		"translations": {
+			"br": "Samoa Amerikan",
+			"pt": "Samoa Americana",
+			"nl": "Amerikaans Samoa",
+			"hr": "Američka Samoa",
+			"fa": "ساموآی آمریکا",
+			"de": "Amerikanisch-Samoa",
+			"es": "Samoa Americana",
+			"fr": "Samoa américaines",
+			"ja": "アメリカ領サモア",
+			"it": "Samoa Americane",
+			"hu": "Amerikai Szamoa"
+		},
+		"independent": false
+	},
+	{
+		"name": "Anguilla",
+		"alpha2Code": "AI",
+		"nativeName": "Anguilla",
+		"translations": {
+			"br": "Anguilla",
+			"pt": "Anguila",
+			"nl": "Anguilla",
+			"hr": "Angvila",
+			"fa": "آنگویلا",
+			"de": "Anguilla",
+			"es": "Anguilla",
+			"fr": "Anguilla",
+			"ja": "アンギラ",
+			"it": "Anguilla",
+			"hu": "Anguilla"
+		},
+		"independent": false
+	},
+	{
+		"name": "Antarctica",
+		"alpha2Code": "AQ",
+		"nativeName": "Antarctica",
+		"translations": {
+			"br": "Antarktika",
+			"pt": "Antárctida",
+			"nl": "Antarctica",
+			"hr": "Antarktika",
+			"fa": "جنوبگان",
+			"de": "Antarktika",
+			"es": "Antártida",
+			"fr": "Antarctique",
+			"ja": "南極大陸",
+			"it": "Antartide",
+			"hu": "Antarktisz"
+		},
+		"independent": false
+	},
+	{
+		"name": "Antigua and Barbuda",
+		"alpha2Code": "AG",
+		"nativeName": "Antigua and Barbuda",
+		"translations": {
+			"br": "Antigua ha Barbuda",
+			"pt": "Antígua e Barbuda",
+			"nl": "Antigua en Barbuda",
+			"hr": "Antigva i Barbuda",
+			"fa": "آنتیگوا و باربودا",
+			"de": "Antigua und Barbuda",
+			"es": "Antigua y Barbuda",
+			"fr": "Antigua-et-Barbuda",
+			"ja": "アンティグア・バーブーダ",
+			"it": "Antigua e Barbuda",
+			"hu": "Antigua és Barbuda"
+		},
+		"independent": false
+	},
+	{
+		"name": "Australia",
+		"alpha2Code": "AU",
+		"nativeName": "Australia",
+		"translations": {
+			"br": "Aostralia",
+			"pt": "Austrália",
+			"nl": "Australië",
+			"hr": "Australija",
+			"fa": "استرالیا",
+			"de": "Australien",
+			"es": "Australia",
+			"fr": "Australie",
+			"ja": "オーストラリア",
+			"it": "Australia",
+			"hu": "Ausztrália"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bahamas",
+		"alpha2Code": "BS",
+		"nativeName": "Bahamas",
+		"translations": {
+			"br": "Bahamas",
+			"pt": "Baamas",
+			"nl": "Bahama’s",
+			"hr": "Bahami",
+			"fa": "باهاما",
+			"de": "Bahamas",
+			"es": "Bahamas",
+			"fr": "Bahamas",
+			"ja": "バハマ",
+			"it": "Bahamas",
+			"hu": "Bahama-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Barbados",
+		"alpha2Code": "BB",
+		"nativeName": "Barbados",
+		"translations": {
+			"br": "Barbados",
+			"pt": "Barbados",
+			"nl": "Barbados",
+			"hr": "Barbados",
+			"fa": "باربادوس",
+			"de": "Barbados",
+			"es": "Barbados",
+			"fr": "Barbade",
+			"ja": "バルバドス",
+			"it": "Barbados",
+			"hu": "Barbados"
+		},
+		"independent": false
+	},
+	{
+		"name": "Belize",
+		"alpha2Code": "BZ",
+		"nativeName": "Belize",
+		"translations": {
+			"br": "Belize",
+			"pt": "Belize",
+			"nl": "Belize",
+			"hr": "Belize",
+			"fa": "بلیز",
+			"de": "Belize",
+			"es": "Belice",
+			"fr": "Belize",
+			"ja": "ベリーズ",
+			"it": "Belize",
+			"hu": "Belize"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bermuda",
+		"alpha2Code": "BM",
+		"nativeName": "Bermuda",
+		"translations": {
+			"br": "Bermuda",
+			"pt": "Bermudas",
+			"nl": "Bermuda",
+			"hr": "Bermudi",
+			"fa": "برمودا",
+			"de": "Bermuda",
+			"es": "Bermudas",
+			"fr": "Bermudes",
+			"ja": "バミューダ",
+			"it": "Bermuda",
+			"hu": "Bermuda"
+		},
+		"independent": false
+	},
+	{
+		"name": "Botswana",
+		"alpha2Code": "BW",
+		"nativeName": "Botswana",
+		"translations": {
+			"br": "Botswana",
+			"pt": "Botsuana",
+			"nl": "Botswana",
+			"hr": "Bocvana",
+			"fa": "بوتسوانا",
+			"de": "Botswana",
+			"es": "Botswana",
+			"fr": "Botswana",
+			"ja": "ボツワナ",
+			"it": "Botswana",
+			"hu": "Botswana"
+		},
+		"independent": false
+	},
+	{
+		"name": "British Indian Ocean Territory",
+		"alpha2Code": "IO",
+		"nativeName": "British Indian Ocean Territory",
+		"translations": {
+			"br": "Tiriad breizhveurat Meurvor Indez",
+			"pt": "Território Britânico do Oceano Índico",
+			"nl": "Britse Gebieden in de Indische Oceaan",
+			"hr": "Britanski Indijskooceanski teritorij",
+			"fa": "قلمرو بریتانیا در اقیانوس هند",
+			"de": "Britisches Territorium im Indischen Ozean",
+			"es": "Territorio Británico del Océano Índico",
+			"fr": "Territoire britannique de l'océan Indien",
+			"ja": "イギリス領インド洋地域",
+			"it": "Territorio britannico dell'oceano indiano",
+			"hu": "Brit Indiai-óceáni Terület"
+		},
+		"independent": false
+	},
+	{
+		"name": "United States Minor Outlying Islands",
+		"alpha2Code": "UM",
+		"nativeName": "United States Minor Outlying Islands",
+		"translations": {
+			"br": "Inizi Minor A-bell Stadoù-Unanet",
+			"pt": "Ilhas Menores Distantes dos Estados Unidos",
+			"nl": "Kleine afgelegen eilanden van de Verenigde Staten",
+			"hr": "Mali udaljeni otoci SAD-a",
+			"fa": "جزایر کوچک حاشیه‌ای ایالات متحده آمریکا",
+			"de": "Kleinere Inselbesitzungen der Vereinigten Staaten",
+			"es": "Islas Ultramarinas Menores de Estados Unidos",
+			"fr": "Îles mineures éloignées des États-Unis",
+			"ja": "合衆国領有小離島",
+			"it": "Isole minori esterne degli Stati Uniti d'America",
+			"hu": "Amerikai Egyesült Államok lakatlan külbirtokai"
+		},
+		"independent": false
+	},
+	{
+		"name": "Virgin Islands (British)",
+		"alpha2Code": "VG",
+		"nativeName": "British Virgin Islands",
+		"translations": {
+			"br": "Inizi Gwerc'h Breizhveurat",
+			"pt": "Ilhas Virgens Britânicas",
+			"nl": "Britse Maagdeneilanden",
+			"hr": "Britanski Djevičanski Otoci",
+			"fa": "جزایر ویرجین بریتانیا",
+			"de": "Britische Jungferninseln",
+			"es": "Islas Vírgenes del Reino Unido",
+			"fr": "Îles Vierges britanniques",
+			"ja": "イギリス領ヴァージン諸島",
+			"it": "Isole Vergini Britanniche",
+			"hu": "Brit Virgin-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Virgin Islands (U.S.)",
+		"alpha2Code": "VI",
+		"nativeName": "Virgin Islands of the United States",
+		"translations": {
+			"br": "Inizi Gwerc'h ar Stadoù-Unanet",
+			"pt": "Ilhas Virgens Americanas",
+			"nl": "Verenigde Staten Maagdeneilanden",
+			"hr": "Virgin Islands (U.S.)",
+			"fa": "جزایر ویرجین آمریکا",
+			"de": "Amerikanische Jungferninseln",
+			"es": "Islas Vírgenes de los Estados Unidos",
+			"fr": "Îles Vierges des États-Unis",
+			"ja": "アメリカ領ヴァージン諸島",
+			"it": "Isole Vergini americane",
+			"hu": "Amerikai Virgin-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Cameroon",
+		"alpha2Code": "CM",
+		"nativeName": "Cameroon",
+		"translations": {
+			"br": "Kameroun",
+			"pt": "Camarões",
+			"nl": "Kameroen",
+			"hr": "Kamerun",
+			"fa": "کامرون",
+			"de": "Kamerun",
+			"es": "Camerún",
+			"fr": "Cameroun",
+			"ja": "カメルーン",
+			"it": "Camerun",
+			"hu": "Kamerun"
+		},
+		"independent": false
+	},
+	{
+		"name": "Canada",
+		"alpha2Code": "CA",
+		"nativeName": "Canada",
+		"translations": {
+			"br": "Kanada",
+			"pt": "Canadá",
+			"nl": "Canada",
+			"hr": "Kanada",
+			"fa": "کانادا",
+			"de": "Kanada",
+			"es": "Canadá",
+			"fr": "Canada",
+			"ja": "カナダ",
+			"it": "Canada",
+			"hu": "Kanada"
+		},
+		"independent": false
+	},
+	{
+		"name": "Cayman Islands",
+		"alpha2Code": "KY",
+		"nativeName": "Cayman Islands",
+		"translations": {
+			"br": "Inizi Cayman",
+			"pt": "Ilhas Caimão",
+			"nl": "Caymaneilanden",
+			"hr": "Kajmanski otoci",
+			"fa": "جزایر کیمن",
+			"de": "Kaimaninseln",
+			"es": "Islas Caimán",
+			"fr": "Îles Caïmans",
+			"ja": "ケイマン諸島",
+			"it": "Isole Cayman",
+			"hu": "Kajmán-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Christmas Island",
+		"alpha2Code": "CX",
+		"nativeName": "Christmas Island",
+		"translations": {
+			"br": "Enez Christmas",
+			"pt": "Ilha do Natal",
+			"nl": "Christmaseiland",
+			"hr": "Božićni otok",
+			"fa": "جزیره کریسمس",
+			"de": "Weihnachtsinsel",
+			"es": "Isla de Navidad",
+			"fr": "Île Christmas",
+			"ja": "クリスマス島",
+			"it": "Isola di Natale",
+			"hu": "Karácsony-sziget"
+		},
+		"independent": false
+	},
+	{
+		"name": "Cocos (Keeling) Islands",
+		"alpha2Code": "CC",
+		"nativeName": "Cocos (Keeling) Islands",
+		"translations": {
+			"br": "Inizi Cocos (Keeling)",
+			"pt": "Ilhas dos Cocos",
+			"nl": "Cocoseilanden",
+			"hr": "Kokosovi Otoci",
+			"fa": "جزایر کوکوس",
+			"de": "Kokosinseln",
+			"es": "Islas Cocos o Islas Keeling",
+			"fr": "Îles Cocos",
+			"ja": "ココス（キーリング）諸島",
+			"it": "Isole Cocos e Keeling",
+			"hu": "Kókusz-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Cook Islands",
+		"alpha2Code": "CK",
+		"nativeName": "Cook Islands",
+		"translations": {
+			"br": "Inizi Cook",
+			"pt": "Ilhas Cook",
+			"nl": "Cookeilanden",
+			"hr": "Cookovo Otočje",
+			"fa": "جزایر کوک",
+			"de": "Cookinseln",
+			"es": "Islas Cook",
+			"fr": "Îles Cook",
+			"ja": "クック諸島",
+			"it": "Isole Cook",
+			"hu": "Cook-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Curaçao",
+		"alpha2Code": "CW",
+		"nativeName": "Curaçao",
+		"translations": {
+			"br": "Curaçao",
+			"pt": "Curaçao",
+			"nl": "Curaçao",
+			"hr": "Curaçao",
+			"fa": "کوراسائو",
+			"de": "Curaçao",
+			"es": "Curaçao",
+			"fr": "Curaçao",
+			"ja": "Curaçao",
+			"it": "Curaçao",
+			"hu": "Curaçao"
+		},
+		"independent": false
+	},
+	{
+		"name": "Dominica",
+		"alpha2Code": "DM",
+		"nativeName": "Dominica",
+		"translations": {
+			"br": "Dominika",
+			"pt": "Dominica",
+			"nl": "Dominica",
+			"hr": "Dominika",
+			"fa": "دومینیکا",
+			"de": "Dominica",
+			"es": "Dominica",
+			"fr": "Dominique",
+			"ja": "ドミニカ国",
+			"it": "Dominica",
+			"hu": "Dominikai Közösség"
+		},
+		"independent": false
+	},
+	{
+		"name": "Eritrea",
+		"alpha2Code": "ER",
+		"nativeName": "ኤርትራ",
+		"translations": {
+			"br": "Eritrea",
+			"pt": "Eritreia",
+			"nl": "Eritrea",
+			"hr": "Eritreja",
+			"fa": "اریتره",
+			"de": "Eritrea",
+			"es": "Eritrea",
+			"fr": "Érythrée",
+			"ja": "エリトリア",
+			"it": "Eritrea",
+			"hu": "Eritrea"
+		},
+		"independent": false
+	},
+	{
+		"name": "Falkland Islands (Malvinas)",
+		"alpha2Code": "FK",
+		"nativeName": "Falkland Islands",
+		"translations": {
+			"br": "Inizi Maloù",
+			"pt": "Ilhas Falkland",
+			"nl": "Falklandeilanden [Islas Malvinas]",
+			"hr": "Falklandski Otoci",
+			"fa": "جزایر فالکلند",
+			"de": "Falklandinseln",
+			"es": "Islas Malvinas",
+			"fr": "Îles Malouines",
+			"ja": "フォークランド（マルビナス）諸島",
+			"it": "Isole Falkland o Isole Malvine",
+			"hu": "Falkland-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Fiji",
+		"alpha2Code": "FJ",
+		"nativeName": "Fiji",
+		"translations": {
+			"br": "Fidji",
+			"pt": "Fiji",
+			"nl": "Fiji",
+			"hr": "Fiđi",
+			"fa": "فیجی",
+			"de": "Fidschi",
+			"es": "Fiyi",
+			"fr": "Fidji",
+			"ja": "フィジー",
+			"it": "Figi",
+			"hu": "Fidzsi-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Gambia",
+		"alpha2Code": "GM",
+		"nativeName": "Gambia",
+		"translations": {
+			"br": "Gambia",
+			"pt": "Gâmbia",
+			"nl": "Gambia",
+			"hr": "Gambija",
+			"fa": "گامبیا",
+			"de": "Gambia",
+			"es": "Gambia",
+			"fr": "Gambie",
+			"ja": "ガンビア",
+			"it": "Gambia",
+			"hu": "Gambia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Ghana",
+		"alpha2Code": "GH",
+		"nativeName": "Ghana",
+		"translations": {
+			"br": "Ghana",
+			"pt": "Gana",
+			"nl": "Ghana",
+			"hr": "Gana",
+			"fa": "غنا",
+			"de": "Ghana",
+			"es": "Ghana",
+			"fr": "Ghana",
+			"ja": "ガーナ",
+			"it": "Ghana",
+			"hu": "Ghána"
+		},
+		"independent": false
+	},
+	{
+		"name": "Gibraltar",
+		"alpha2Code": "GI",
+		"nativeName": "Gibraltar",
+		"translations": {
+			"br": "Jibraltar",
+			"pt": "Gibraltar",
+			"nl": "Gibraltar",
+			"hr": "Gibraltar",
+			"fa": "جبل‌طارق",
+			"de": "Gibraltar",
+			"es": "Gibraltar",
+			"fr": "Gibraltar",
+			"ja": "ジブラルタル",
+			"it": "Gibilterra",
+			"hu": "Gibraltár"
+		},
+		"independent": false
+	},
+	{
+		"name": "Grenada",
+		"alpha2Code": "GD",
+		"nativeName": "Grenada",
+		"translations": {
+			"br": "Grenada",
+			"pt": "Granada",
+			"nl": "Grenada",
+			"hr": "Grenada",
+			"fa": "گرنادا",
+			"de": "Grenada",
+			"es": "Grenada",
+			"fr": "Grenade",
+			"ja": "グレナダ",
+			"it": "Grenada",
+			"hu": "Grenada"
+		},
+		"independent": false
+	},
+	{
+		"name": "Guam",
+		"alpha2Code": "GU",
+		"nativeName": "Guam",
+		"translations": {
+			"br": "Guam",
+			"pt": "Guame",
+			"nl": "Guam",
+			"hr": "Guam",
+			"fa": "گوام",
+			"de": "Guam",
+			"es": "Guam",
+			"fr": "Guam",
+			"ja": "グアム",
+			"it": "Guam",
+			"hu": "Guam"
+		},
+		"independent": false
+	},
+	{
+		"name": "Guernsey",
+		"alpha2Code": "GG",
+		"nativeName": "Guernsey",
+		"translations": {
+			"br": "Gwernenez",
+			"pt": "Guernsey",
+			"nl": "Guernsey",
+			"hr": "Guernsey",
+			"fa": "گرنزی",
+			"de": "Guernsey",
+			"es": "Guernsey",
+			"fr": "Guernesey",
+			"ja": "ガーンジー",
+			"it": "Guernsey",
+			"hu": "Guernsey"
+		},
+		"independent": false
+	},
+	{
+		"name": "Guyana",
+		"alpha2Code": "GY",
+		"nativeName": "Guyana",
+		"translations": {
+			"br": "Guyana",
+			"pt": "Guiana",
+			"nl": "Guyana",
+			"hr": "Gvajana",
+			"fa": "گویان",
+			"de": "Guyana",
+			"es": "Guyana",
+			"fr": "Guyane",
+			"ja": "ガイアナ",
+			"it": "Guyana",
+			"hu": "Guyana"
+		},
+		"independent": false
+	},
+	{
+		"name": "Heard Island and McDonald Islands",
+		"alpha2Code": "HM",
+		"nativeName": "Heard Island and McDonald Islands",
+		"translations": {
+			"br": "Inizi Heard ha McDonald",
+			"pt": "Ilha Heard e Ilhas McDonald",
+			"nl": "Heard- en McDonaldeilanden",
+			"hr": "Otok Heard i otočje McDonald",
+			"fa": "جزیره هرد و جزایر مک‌دونالد",
+			"de": "Heard und die McDonaldinseln",
+			"es": "Islas Heard y McDonald",
+			"fr": "Îles Heard-et-MacDonald",
+			"ja": "ハード島とマクドナルド諸島",
+			"it": "Isole Heard e McDonald",
+			"hu": "Heard-sziget és McDonald-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Hong Kong",
+		"alpha2Code": "HK",
+		"nativeName": "香港",
+		"translations": {
+			"br": "Hong Kong",
+			"pt": "Hong Kong",
+			"nl": "Hongkong",
+			"hr": "Hong Kong",
+			"fa": "هنگ‌کنگ",
+			"de": "Hong Kong",
+			"es": "Hong Kong",
+			"fr": "Hong Kong",
+			"ja": "香港",
+			"it": "Hong Kong",
+			"hu": "Hong Kong"
+		},
+		"independent": false
+	},
+	{
+		"name": "India",
+		"alpha2Code": "IN",
+		"nativeName": "भारत",
+		"translations": {
+			"br": "India",
+			"pt": "Índia",
+			"nl": "India",
+			"hr": "Indija",
+			"fa": "هند",
+			"de": "Indien",
+			"es": "India",
+			"fr": "Inde",
+			"ja": "インド",
+			"it": "India",
+			"hu": "India"
+		},
+		"independent": false
+	},
+	{
+		"name": "Ireland",
+		"alpha2Code": "IE",
+		"nativeName": "Éire",
+		"translations": {
+			"br": "Iwerzhon",
+			"pt": "Irlanda",
+			"nl": "Ierland",
+			"hr": "Irska",
+			"fa": "ایرلند",
+			"de": "Irland",
+			"es": "Irlanda",
+			"fr": "Irlande",
+			"ja": "アイルランド",
+			"it": "Irlanda",
+			"hu": "Írország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Isle of Man",
+		"alpha2Code": "IM",
+		"nativeName": "Isle of Man",
+		"translations": {
+			"br": "Enez Vanav",
+			"pt": "Ilha de Man",
+			"nl": "Isle of Man",
+			"hr": "Otok Man",
+			"fa": "جزیره من",
+			"de": "Insel Man",
+			"es": "Isla de Man",
+			"fr": "Île de Man",
+			"ja": "マン島",
+			"it": "Isola di Man",
+			"hu": "Man"
+		},
+		"independent": false
+	},
+	{
+		"name": "Jamaica",
+		"alpha2Code": "JM",
+		"nativeName": "Jamaica",
+		"translations": {
+			"br": "Jamaika",
+			"pt": "Jamaica",
+			"nl": "Jamaica",
+			"hr": "Jamajka",
+			"fa": "جامائیکا",
+			"de": "Jamaika",
+			"es": "Jamaica",
+			"fr": "Jamaïque",
+			"ja": "ジャマイカ",
+			"it": "Giamaica",
+			"hu": "Jamaica"
+		},
+		"independent": false
+	},
+	{
+		"name": "Jersey",
+		"alpha2Code": "JE",
+		"nativeName": "Jersey",
+		"translations": {
+			"br": "Jerzenez",
+			"pt": "Jersey",
+			"nl": "Jersey",
+			"hr": "Jersey",
+			"fa": "جرزی",
+			"de": "Jersey",
+			"es": "Jersey",
+			"fr": "Jersey",
+			"ja": "ジャージー",
+			"it": "Isola di Jersey",
+			"hu": "Jersey"
+		},
+		"independent": false
+	},
+	{
+		"name": "Kenya",
+		"alpha2Code": "KE",
+		"nativeName": "Kenya",
+		"translations": {
+			"br": "Kenya",
+			"pt": "Quénia",
+			"nl": "Kenia",
+			"hr": "Kenija",
+			"fa": "کنیا",
+			"de": "Kenia",
+			"es": "Kenia",
+			"fr": "Kenya",
+			"ja": "ケニア",
+			"it": "Kenya",
+			"hu": "Kenya"
+		},
+		"independent": false
+	},
+	{
+		"name": "Kiribati",
+		"alpha2Code": "KI",
+		"nativeName": "Kiribati",
+		"translations": {
+			"br": "Kiribati",
+			"pt": "Quiribáti",
+			"nl": "Kiribati",
+			"hr": "Kiribati",
+			"fa": "کیریباتی",
+			"de": "Kiribati",
+			"es": "Kiribati",
+			"fr": "Kiribati",
+			"ja": "キリバス",
+			"it": "Kiribati",
+			"hu": "Kiribati"
+		},
+		"independent": false
+	},
+	{
+		"name": "Lesotho",
+		"alpha2Code": "LS",
+		"nativeName": "Lesotho",
+		"translations": {
+			"br": "Lesotho",
+			"pt": "Lesoto",
+			"nl": "Lesotho",
+			"hr": "Lesoto",
+			"fa": "لسوتو",
+			"de": "Lesotho",
+			"es": "Lesotho",
+			"fr": "Lesotho",
+			"ja": "レソト",
+			"it": "Lesotho",
+			"hu": "Lesotho"
+		},
+		"independent": false
+	},
+	{
+		"name": "Liberia",
+		"alpha2Code": "LR",
+		"nativeName": "Liberia",
+		"translations": {
+			"br": "Liberia",
+			"pt": "Libéria",
+			"nl": "Liberia",
+			"hr": "Liberija",
+			"fa": "لیبریا",
+			"de": "Liberia",
+			"es": "Liberia",
+			"fr": "Liberia",
+			"ja": "リベリア",
+			"it": "Liberia",
+			"hu": "Libéria"
+		},
+		"independent": false
+	},
+	{
+		"name": "Malawi",
+		"alpha2Code": "MW",
+		"nativeName": "Malawi",
+		"translations": {
+			"br": "Malawi",
+			"pt": "Malávi",
+			"nl": "Malawi",
+			"hr": "Malavi",
+			"fa": "مالاوی",
+			"de": "Malawi",
+			"es": "Malawi",
+			"fr": "Malawi",
+			"ja": "マラウイ",
+			"it": "Malawi",
+			"hu": "Malawi"
+		},
+		"independent": false
+	},
+	{
+		"name": "Malta",
+		"alpha2Code": "MT",
+		"nativeName": "Malta",
+		"translations": {
+			"br": "Malta",
+			"pt": "Malta",
+			"nl": "Malta",
+			"hr": "Malta",
+			"fa": "مالت",
+			"de": "Malta",
+			"es": "Malta",
+			"fr": "Malte",
+			"ja": "マルタ",
+			"it": "Malta",
+			"hu": "Málta"
+		},
+		"independent": false
+	},
+	{
+		"name": "Marshall Islands",
+		"alpha2Code": "MH",
+		"nativeName": "M̧ajeļ",
+		"translations": {
+			"br": "Inizi Marshall",
+			"pt": "Ilhas Marshall",
+			"nl": "Marshalleilanden",
+			"hr": "Maršalovi Otoci",
+			"fa": "جزایر مارشال",
+			"de": "Marshallinseln",
+			"es": "Islas Marshall",
+			"fr": "Îles Marshall",
+			"ja": "マーシャル諸島",
+			"it": "Isole Marshall",
+			"hu": "Marshall-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Mauritius",
+		"alpha2Code": "MU",
+		"nativeName": "Maurice",
+		"translations": {
+			"br": "Moris",
+			"pt": "Maurícia",
+			"nl": "Mauritius",
+			"hr": "Mauricijus",
+			"fa": "موریس",
+			"de": "Mauritius",
+			"es": "Mauricio",
+			"fr": "Île Maurice",
+			"ja": "モーリシャス",
+			"it": "Mauritius",
+			"hu": "Mauritius"
+		},
+		"independent": false
+	},
+	{
+		"name": "Micronesia (Federated States of)",
+		"alpha2Code": "FM",
+		"nativeName": "Micronesia",
+		"translations": {
+			"br": "Mikronezia",
+			"pt": "Micronésia",
+			"nl": "Micronesië",
+			"hr": "Mikronezija",
+			"fa": "ایالات فدرال میکرونزی",
+			"de": "Mikronesien",
+			"es": "Micronesia",
+			"fr": "Micronésie",
+			"ja": "ミクロネシア連邦",
+			"it": "Micronesia",
+			"hu": "Mikronézia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Montserrat",
+		"alpha2Code": "MS",
+		"nativeName": "Montserrat",
+		"translations": {
+			"br": "Montserrat",
+			"pt": "Monserrate",
+			"nl": "Montserrat",
+			"hr": "Montserrat",
+			"fa": "مایوت",
+			"de": "Montserrat",
+			"es": "Montserrat",
+			"fr": "Montserrat",
+			"ja": "モントセラト",
+			"it": "Montserrat",
+			"hu": "Montserrat"
+		},
+		"independent": false
+	},
+	{
+		"name": "Namibia",
+		"alpha2Code": "NA",
+		"nativeName": "Namibia",
+		"translations": {
+			"br": "Namibia",
+			"pt": "Namíbia",
+			"nl": "Namibië",
+			"hr": "Namibija",
+			"fa": "نامیبیا",
+			"de": "Namibia",
+			"es": "Namibia",
+			"fr": "Namibie",
+			"ja": "ナミビア",
+			"it": "Namibia",
+			"hu": "Namíbia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Nauru",
+		"alpha2Code": "NR",
+		"nativeName": "Nauru",
+		"translations": {
+			"br": "Nauru",
+			"pt": "Nauru",
+			"nl": "Nauru",
+			"hr": "Nauru",
+			"fa": "نائورو",
+			"de": "Nauru",
+			"es": "Nauru",
+			"fr": "Nauru",
+			"ja": "ナウル",
+			"it": "Nauru",
+			"hu": "Nauru"
+		},
+		"independent": false
+	},
+	{
+		"name": "New Zealand",
+		"alpha2Code": "NZ",
+		"nativeName": "New Zealand",
+		"translations": {
+			"br": "Zeland-Nevez",
+			"pt": "Nova Zelândia",
+			"nl": "Nieuw-Zeeland",
+			"hr": "Novi Zeland",
+			"fa": "نیوزیلند",
+			"de": "Neuseeland",
+			"es": "Nueva Zelanda",
+			"fr": "Nouvelle-Zélande",
+			"ja": "ニュージーランド",
+			"it": "Nuova Zelanda",
+			"hu": "Új-Zéland"
+		},
+		"independent": false
+	},
+	{
+		"name": "Nigeria",
+		"alpha2Code": "NG",
+		"nativeName": "Nigeria",
+		"translations": {
+			"br": "Nigeria",
+			"pt": "Nigéria",
+			"nl": "Nigeria",
+			"hr": "Nigerija",
+			"fa": "نیجریه",
+			"de": "Nigeria",
+			"es": "Nigeria",
+			"fr": "Nigéria",
+			"ja": "ナイジェリア",
+			"it": "Nigeria",
+			"hu": "Nigéria"
+		},
+		"independent": false
+	},
+	{
+		"name": "Niue",
+		"alpha2Code": "NU",
+		"nativeName": "Niuē",
+		"translations": {
+			"br": "Niue",
+			"pt": "Niue",
+			"nl": "Niue",
+			"hr": "Niue",
+			"fa": "نیووی",
+			"de": "Niue",
+			"es": "Niue",
+			"fr": "Niue",
+			"ja": "ニウエ",
+			"it": "Niue",
+			"hu": "Niue"
+		},
+		"independent": false
+	},
+	{
+		"name": "Norfolk Island",
+		"alpha2Code": "NF",
+		"nativeName": "Norfolk Island",
+		"translations": {
+			"br": "Enez Norfolk",
+			"pt": "Ilha Norfolk",
+			"nl": "Norfolkeiland",
+			"hr": "Otok Norfolk",
+			"fa": "جزیره نورفک",
+			"de": "Norfolkinsel",
+			"es": "Isla de Norfolk",
+			"fr": "Île de Norfolk",
+			"ja": "ノーフォーク島",
+			"it": "Isola Norfolk",
+			"hu": "Norfolk-sziget"
+		},
+		"independent": false
+	},
+	{
+		"name": "Northern Mariana Islands",
+		"alpha2Code": "MP",
+		"nativeName": "Northern Mariana Islands",
+		"translations": {
+			"br": "Inizi Mariana an Norzh",
+			"pt": "Ilhas Marianas",
+			"nl": "Noordelijke Marianeneilanden",
+			"hr": "Sjevernomarijanski otoci",
+			"fa": "جزایر ماریانای شمالی",
+			"de": "Nördliche Marianen",
+			"es": "Islas Marianas del Norte",
+			"fr": "Îles Mariannes du Nord",
+			"ja": "北マリアナ諸島",
+			"it": "Isole Marianne Settentrionali",
+			"hu": "Északi-Mariana-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Pakistan",
+		"alpha2Code": "PK",
+		"nativeName": "Pakistan",
+		"translations": {
+			"br": "Pakistan",
+			"pt": "Paquistão",
+			"nl": "Pakistan",
+			"hr": "Pakistan",
+			"fa": "پاکستان",
+			"de": "Pakistan",
+			"es": "Pakistán",
+			"fr": "Pakistan",
+			"ja": "パキスタン",
+			"it": "Pakistan",
+			"hu": "Pakisztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Palau",
+		"alpha2Code": "PW",
+		"nativeName": "Palau",
+		"translations": {
+			"br": "Palau",
+			"pt": "Palau",
+			"nl": "Palau",
+			"hr": "Palau",
+			"fa": "پالائو",
+			"de": "Palau",
+			"es": "Palau",
+			"fr": "Palaos",
+			"ja": "パラオ",
+			"it": "Palau",
+			"hu": "Palau"
+		},
+		"independent": false
+	},
+	{
+		"name": "Papua New Guinea",
+		"alpha2Code": "PG",
+		"nativeName": "Papua Niugini",
+		"translations": {
+			"br": "Papoua-Ginea Nevez",
+			"pt": "Papua Nova Guiné",
+			"nl": "Papoea-Nieuw-Guinea",
+			"hr": "Papua Nova Gvineja",
+			"fa": "پاپوآ گینه نو",
+			"de": "Papua-Neuguinea",
+			"es": "Papúa Nueva Guinea",
+			"fr": "Papouasie-Nouvelle-Guinée",
+			"ja": "パプアニューギニア",
+			"it": "Papua Nuova Guinea",
+			"hu": "Pápua Új-Guinea"
+		},
+		"independent": false
+	},
+	{
+		"name": "Philippines",
+		"alpha2Code": "PH",
+		"nativeName": "Pilipinas",
+		"translations": {
+			"br": "Filipinez",
+			"pt": "Filipinas",
+			"nl": "Filipijnen",
+			"hr": "Filipini",
+			"fa": "جزایر الندفیلیپین",
+			"de": "Philippinen",
+			"es": "Filipinas",
+			"fr": "Philippines",
+			"ja": "フィリピン",
+			"it": "Filippine",
+			"hu": "Fülöp-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Pitcairn",
+		"alpha2Code": "PN",
+		"nativeName": "Pitcairn Islands",
+		"translations": {
+			"br": "Inizi Pitcairn",
+			"pt": "Ilhas Picárnia",
+			"nl": "Pitcairneilanden",
+			"hr": "Pitcairnovo otočje",
+			"fa": "پیتکرن",
+			"de": "Pitcairn",
+			"es": "Islas Pitcairn",
+			"fr": "Îles Pitcairn",
+			"ja": "ピトケアン",
+			"it": "Isole Pitcairn",
+			"hu": "Pitcairn-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Puerto Rico",
+		"alpha2Code": "PR",
+		"nativeName": "Puerto Rico",
+		"translations": {
+			"br": "Puerto Rico",
+			"pt": "Porto Rico",
+			"nl": "Puerto Rico",
+			"hr": "Portoriko",
+			"fa": "پورتو ریکو",
+			"de": "Puerto Rico",
+			"es": "Puerto Rico",
+			"fr": "Porto Rico",
+			"ja": "プエルトリコ",
+			"it": "Porto Rico",
+			"hu": "Puerto Rico"
+		},
+		"independent": false
+	},
+	{
+		"name": "Rwanda",
+		"alpha2Code": "RW",
+		"nativeName": "Rwanda",
+		"translations": {
+			"br": "Rwanda",
+			"pt": "Ruanda",
+			"nl": "Rwanda",
+			"hr": "Ruanda",
+			"fa": "رواندا",
+			"de": "Ruanda",
+			"es": "Ruanda",
+			"fr": "Rwanda",
+			"ja": "ルワンダ",
+			"it": "Ruanda",
+			"hu": "Ruanda"
+		},
+		"independent": false
+	},
+	{
+		"name": "Saint Helena, Ascension and Tristan da Cunha",
+		"alpha2Code": "SH",
+		"nativeName": "Saint Helena",
+		"translations": {
+			"br": "Saint Helena, Ascension ha Tristan da Cunha",
+			"pt": "Santa Helena",
+			"nl": "Sint-Helena",
+			"hr": "Sveta Helena",
+			"fa": "سنت هلنا، اسنشن و تریستان دا کونا",
+			"de": "Sankt Helena",
+			"es": "Santa Helena",
+			"fr": "Sainte-Hélène",
+			"ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+			"it": "Sant'Elena",
+			"hu": "Szent Ilona"
+		},
+		"independent": false
+	},
+	{
+		"name": "Saint Kitts and Nevis",
+		"alpha2Code": "KN",
+		"nativeName": "Saint Kitts and Nevis",
+		"translations": {
+			"br": "Saint Kitts ha Nevis",
+			"pt": "São Cristóvão e Neves",
+			"nl": "Saint Kitts en Nevis",
+			"hr": "Sveti Kristof i Nevis",
+			"fa": "سنت کیتس و نویس",
+			"de": "St. Kitts und Nevis",
+			"es": "San Cristóbal y Nieves",
+			"fr": "Saint-Christophe-et-Niévès",
+			"ja": "セントクリストファー・ネイビス",
+			"it": "Saint Kitts e Nevis",
+			"hu": "Saint Kitts és Nevis"
+		},
+		"independent": false
+	},
+	{
+		"name": "Saint Lucia",
+		"alpha2Code": "LC",
+		"nativeName": "Saint Lucia",
+		"translations": {
+			"br": "Santez-Lusia",
+			"pt": "Santa Lúcia",
+			"nl": "Saint Lucia",
+			"hr": "Sveta Lucija",
+			"fa": "سنت لوسیا",
+			"de": "Saint Lucia",
+			"es": "Santa Lucía",
+			"fr": "Saint-Lucie",
+			"ja": "セントルシア",
+			"it": "Santa Lucia",
+			"hu": "Saint Lucia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Saint Martin (French part)",
+		"alpha2Code": "MF",
+		"nativeName": "Saint-Martin",
+		"translations": {
+			"br": "Saint-Martin",
+			"pt": "Ilha São Martinho",
+			"nl": "Saint-Martin",
+			"hr": "Sveti Martin",
+			"fa": "سینت مارتن",
+			"de": "Saint Martin",
+			"es": "Saint Martin",
+			"fr": "Saint-Martin",
+			"ja": "サン・マルタン（フランス領）",
+			"it": "Saint Martin",
+			"hu": "Saint-Martin"
+		},
+		"independent": false
+	},
+	{
+		"name": "Saint Vincent and the Grenadines",
+		"alpha2Code": "VC",
+		"nativeName": "Saint Vincent and the Grenadines",
+		"translations": {
+			"br": "Sant-Visant hag ar Grenadinez",
+			"pt": "São Vicente e Granadinas",
+			"nl": "Saint Vincent en de Grenadines",
+			"hr": "Sveti Vincent i Grenadini",
+			"fa": "سنت وینسنت و گرنادین‌ها",
+			"de": "Saint Vincent und die Grenadinen",
+			"es": "San Vicente y Granadinas",
+			"fr": "Saint-Vincent-et-les-Grenadines",
+			"ja": "セントビンセントおよびグレナディーン諸島",
+			"it": "Saint Vincent e Grenadine",
+			"hu": "Saint Vincent és a Grenadine-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Samoa",
+		"alpha2Code": "WS",
+		"nativeName": "Samoa",
+		"translations": {
+			"br": "Samoa",
+			"pt": "Samoa",
+			"nl": "Samoa",
+			"hr": "Samoa",
+			"fa": "ساموآ",
+			"de": "Samoa",
+			"es": "Samoa",
+			"fr": "Samoa",
+			"ja": "サモア",
+			"it": "Samoa",
+			"hu": "Szamoa"
+		},
+		"independent": false
+	},
+	{
+		"name": "Seychelles",
+		"alpha2Code": "SC",
+		"nativeName": "Seychelles",
+		"translations": {
+			"br": "Sechelez",
+			"pt": "Seicheles",
+			"nl": "Seychellen",
+			"hr": "Sejšeli",
+			"fa": "سیشل",
+			"de": "Seychellen",
+			"es": "Seychelles",
+			"fr": "Seychelles",
+			"ja": "セーシェル",
+			"it": "Seychelles",
+			"hu": "Seychelle-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Sierra Leone",
+		"alpha2Code": "SL",
+		"nativeName": "Sierra Leone",
+		"translations": {
+			"br": "Sierra Leone",
+			"pt": "Serra Leoa",
+			"nl": "Sierra Leone",
+			"hr": "Sijera Leone",
+			"fa": "سیرالئون",
+			"de": "Sierra Leone",
+			"es": "Sierra Leone",
+			"fr": "Sierra Leone",
+			"ja": "シエラレオネ",
+			"it": "Sierra Leone",
+			"hu": "Sierra Leone"
+		},
+		"independent": false
+	},
+	{
+		"name": "Singapore",
+		"alpha2Code": "SG",
+		"nativeName": "Singapore",
+		"translations": {
+			"br": "Singapour",
+			"pt": "Singapura",
+			"nl": "Singapore",
+			"hr": "Singapur",
+			"fa": "سنگاپور",
+			"de": "Singapur",
+			"es": "Singapur",
+			"fr": "Singapour",
+			"ja": "シンガポール",
+			"it": "Singapore",
+			"hu": "Szingapúr"
+		},
+		"independent": false
+	},
+	{
+		"name": "Sint Maarten (Dutch part)",
+		"alpha2Code": "SX",
+		"nativeName": "Sint Maarten",
+		"translations": {
+			"br": "Sint Maarten",
+			"pt": "São Martinho",
+			"nl": "Sint Maarten",
+			"hr": "Sint Maarten (Dutch part)",
+			"fa": "سینت مارتن",
+			"de": "Sint Maarten (niederl. Teil)",
+			"es": "Sint Maarten (Dutch part)",
+			"fr": "Saint Martin (partie néerlandaise)",
+			"ja": "Sint Maarten (Dutch part)",
+			"it": "Saint Martin (parte olandese)",
+			"hu": "Sint Maarten"
+		},
+		"independent": false
+	},
+	{
+		"name": "Solomon Islands",
+		"alpha2Code": "SB",
+		"nativeName": "Solomon Islands",
+		"translations": {
+			"br": "Inizi Salomon",
+			"pt": "Ilhas Salomão",
+			"nl": "Salomonseilanden",
+			"hr": "Solomonski Otoci",
+			"fa": "جزایر سلیمان",
+			"de": "Salomonen",
+			"es": "Islas Salomón",
+			"fr": "Îles Salomon",
+			"ja": "ソロモン諸島",
+			"it": "Isole Salomone",
+			"hu": "Salamon-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "South Africa",
+		"alpha2Code": "ZA",
+		"nativeName": "South Africa",
+		"translations": {
+			"br": "Suafrika",
+			"pt": "República Sul-Africana",
+			"nl": "Zuid-Afrika",
+			"hr": "Južnoafrička Republika",
+			"fa": "آفریقای جنوبی",
+			"de": "Republik Südafrika",
+			"es": "República de Sudáfrica",
+			"fr": "Afrique du Sud",
+			"ja": "南アフリカ",
+			"it": "Sud Africa",
+			"hu": "Dél-afrikai Köztársaság"
+		},
+		"independent": false
+	},
+	{
+		"name": "South Georgia and the South Sandwich Islands",
+		"alpha2Code": "GS",
+		"nativeName": "South Georgia",
+		"translations": {
+			"br": "Georgia ar Su hag Inizi Sandwich ar Su",
+			"pt": "Ilhas Geórgia do Sul e Sanduíche do Sul",
+			"nl": "Zuid-Georgia en Zuidelijke Sandwicheilanden",
+			"hr": "Južna Georgija i otočje Južni Sandwich",
+			"fa": "جزایر جورجیای جنوبی و ساندویچ جنوبی",
+			"de": "Südgeorgien und die Südlichen Sandwichinseln",
+			"es": "Islas Georgias del Sur y Sandwich del Sur",
+			"fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
+			"ja": "サウスジョージア・サウスサンドウィッチ諸島",
+			"it": "Georgia del Sud e Isole Sandwich Meridionali",
+			"hu": "Déli-Georgia és Déli-Sandwich-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Sudan",
+		"alpha2Code": "SD",
+		"nativeName": "السودان",
+		"translations": {
+			"br": "Soudan",
+			"pt": "Sudão",
+			"nl": "Soedan",
+			"hr": "Sudan",
+			"fa": "سودان",
+			"de": "Sudan",
+			"es": "Sudán",
+			"fr": "Soudan",
+			"ja": "スーダン",
+			"it": "Sudan",
+			"hu": "Szudán"
+		},
+		"independent": false
+	},
+	{
+		"name": "South Sudan",
+		"alpha2Code": "SS",
+		"nativeName": "South Sudan",
+		"translations": {
+			"br": "Soudan ar Su",
+			"pt": "Sudão do Sul",
+			"nl": "Zuid-Soedan",
+			"hr": "Južni Sudan",
+			"fa": "سودان جنوبی",
+			"de": "Südsudan",
+			"es": "Sudán del Sur",
+			"fr": "Soudan du Sud",
+			"ja": "南スーダン",
+			"it": "Sudan del sud",
+			"hu": "Dél-Szudán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Swaziland",
+		"alpha2Code": "SZ",
+		"nativeName": "Swaziland",
+		"translations": {
+			"br": "Eswatini",
+			"pt": "Suazilândia",
+			"nl": "Swaziland",
+			"hr": "Svazi",
+			"fa": "سوازیلند",
+			"de": "Swasiland",
+			"es": "Suazilandia",
+			"fr": "Swaziland",
+			"ja": "スワジランド",
+			"it": "Swaziland",
+			"hu": "Szváziföld"
+		},
+		"independent": false
+	},
+	{
+		"name": "Tanzania, United Republic of",
+		"alpha2Code": "TZ",
+		"nativeName": "Tanzania",
+		"translations": {
+			"br": "Tanzania",
+			"pt": "Tanzânia",
+			"nl": "Tanzania",
+			"hr": "Tanzanija",
+			"fa": "تانزانیا",
+			"de": "Tansania",
+			"es": "Tanzania",
+			"fr": "Tanzanie",
+			"ja": "タンザニア",
+			"it": "Tanzania",
+			"hu": "Tanzánia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Tokelau",
+		"alpha2Code": "TK",
+		"nativeName": "Tokelau",
+		"translations": {
+			"br": "Tokelau",
+			"pt": "Toquelau",
+			"nl": "Tokelau",
+			"hr": "Tokelau",
+			"fa": "توکلائو",
+			"de": "Tokelau",
+			"es": "Islas Tokelau",
+			"fr": "Tokelau",
+			"ja": "トケラウ",
+			"it": "Isole Tokelau",
+			"hu": "Tokelau-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Tonga",
+		"alpha2Code": "TO",
+		"nativeName": "Tonga",
+		"translations": {
+			"br": "Tonga",
+			"pt": "Tonga",
+			"nl": "Tonga",
+			"hr": "Tonga",
+			"fa": "تونگا",
+			"de": "Tonga",
+			"es": "Tonga",
+			"fr": "Tonga",
+			"ja": "トンガ",
+			"it": "Tonga",
+			"hu": "Tonga"
+		},
+		"independent": false
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"alpha2Code": "TT",
+		"nativeName": "Trinidad and Tobago",
+		"translations": {
+			"br": "Trinidad ha Tobago",
+			"pt": "Trindade e Tobago",
+			"nl": "Trinidad en Tobago",
+			"hr": "Trinidad i Tobago",
+			"fa": "ترینیداد و توباگو",
+			"de": "Trinidad und Tobago",
+			"es": "Trinidad y Tobago",
+			"fr": "Trinité et Tobago",
+			"ja": "トリニダード・トバゴ",
+			"it": "Trinidad e Tobago",
+			"hu": "Trinidad és Tobago"
+		},
+		"independent": false
+	},
+	{
+		"name": "Turks and Caicos Islands",
+		"alpha2Code": "TC",
+		"nativeName": "Turks and Caicos Islands",
+		"translations": {
+			"br": "Inizi Turks ha Caicos",
+			"pt": "Ilhas Turcas e Caicos",
+			"nl": "Turks- en Caicoseilanden",
+			"hr": "Otoci Turks i Caicos",
+			"fa": "جزایر تورکس و کایکوس",
+			"de": "Turks- und Caicosinseln",
+			"es": "Islas Turks y Caicos",
+			"fr": "Îles Turques-et-Caïques",
+			"ja": "タークス・カイコス諸島",
+			"it": "Isole Turks e Caicos",
+			"hu": "Turks- és Caicos-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Tuvalu",
+		"alpha2Code": "TV",
+		"nativeName": "Tuvalu",
+		"translations": {
+			"br": "Tuvalu",
+			"pt": "Tuvalu",
+			"nl": "Tuvalu",
+			"hr": "Tuvalu",
+			"fa": "تووالو",
+			"de": "Tuvalu",
+			"es": "Tuvalu",
+			"fr": "Tuvalu",
+			"ja": "ツバル",
+			"it": "Tuvalu",
+			"hu": "Tuvalu"
+		},
+		"independent": false
+	},
+	{
+		"name": "Uganda",
+		"alpha2Code": "UG",
+		"nativeName": "Uganda",
+		"translations": {
+			"br": "Ouganda",
+			"pt": "Uganda",
+			"nl": "Oeganda",
+			"hr": "Uganda",
+			"fa": "اوگاندا",
+			"de": "Uganda",
+			"es": "Uganda",
+			"fr": "Uganda",
+			"ja": "ウガンダ",
+			"it": "Uganda",
+			"hu": "Uganda"
+		},
+		"independent": false
+	},
+	{
+		"name": "United Kingdom of Great Britain and Northern Ireland",
+		"alpha2Code": "GB",
+		"nativeName": "United Kingdom",
+		"translations": {
+			"br": "Rouantelezh-Unanet",
+			"pt": "Reino Unido",
+			"nl": "Verenigd Koninkrijk",
+			"hr": "Ujedinjeno Kraljevstvo",
+			"fa": "بریتانیای کبیر و ایرلند شمالی",
+			"de": "Vereinigtes Königreich",
+			"es": "Reino Unido",
+			"fr": "Royaume-Uni",
+			"ja": "イギリス",
+			"it": "Regno Unito",
+			"hu": "Nagy-Britannia"
+		},
+		"independent": false
+	},
+	{
+		"name": "United States of America",
+		"alpha2Code": "US",
+		"nativeName": "United States",
+		"translations": {
+			"br": "Stadoù-Unanet",
+			"pt": "Estados Unidos",
+			"nl": "Verenigde Staten",
+			"hr": "Sjedinjene Američke Države",
+			"fa": "ایالات متحده آمریکا",
+			"de": "Vereinigte Staaten von Amerika",
+			"es": "Estados Unidos",
+			"fr": "États-Unis",
+			"ja": "アメリカ合衆国",
+			"it": "Stati Uniti D'America",
+			"hu": "Amerikai Egyesült Államok"
+		},
+		"independent": false
+	},
+	{
+		"name": "Vanuatu",
+		"alpha2Code": "VU",
+		"nativeName": "Vanuatu",
+		"translations": {
+			"br": "Vanuatu",
+			"pt": "Vanuatu",
+			"nl": "Vanuatu",
+			"hr": "Vanuatu",
+			"fa": "وانواتو",
+			"de": "Vanuatu",
+			"es": "Vanuatu",
+			"fr": "Vanuatu",
+			"ja": "バヌアツ",
+			"it": "Vanuatu",
+			"hu": "Vanuatu"
+		},
+		"independent": false
+	},
+	{
+		"name": "Zambia",
+		"alpha2Code": "ZM",
+		"nativeName": "Zambia",
+		"translations": {
+			"br": "Zambia",
+			"pt": "Zâmbia",
+			"nl": "Zambia",
+			"hr": "Zambija",
+			"fa": "زامبیا",
+			"de": "Sambia",
+			"es": "Zambia",
+			"fr": "Zambie",
+			"ja": "ザンビア",
+			"it": "Zambia",
+			"hu": "Zambia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Zimbabwe",
+		"alpha2Code": "ZW",
+		"nativeName": "Zimbabwe",
+		"translations": {
+			"br": "Zimbabwe",
+			"pt": "Zimbabué",
+			"nl": "Zimbabwe",
+			"hr": "Zimbabve",
+			"fa": "زیمباوه",
+			"de": "Simbabwe",
+			"es": "Zimbabue",
+			"fr": "Zimbabwe",
+			"ja": "ジンバブエ",
+			"it": "Zimbabwe",
+			"hu": "Zimbabwe"
+		},
+		"independent": false
+	}
+]

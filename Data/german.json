@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Austria",
+        "alpha2Code": "AT",
+        "nativeName": "Österreich",
+        "translations": {
+            "br": "Aostria",
+            "pt": "Áustria",
+            "nl": "Oostenrijk",
+            "hr": "Austrija",
+            "fa": "اتریش",
+            "de": "Österreich",
+            "es": "Austria",
+            "fr": "Autriche",
+            "ja": "オーストリア",
+            "it": "Austria",
+            "hu": "Ausztria"
+        },
+        "independent": false
+    },
+    {
+        "name": "Belgium",
+        "alpha2Code": "BE",
+        "nativeName": "België",
+        "translations": {
+            "br": "Belgia",
+            "pt": "Bélgica",
+            "nl": "België",
+            "hr": "Belgija",
+            "fa": "بلژیک",
+            "de": "Belgien",
+            "es": "Bélgica",
+            "fr": "Belgique",
+            "ja": "ベルギー",
+            "it": "Belgio",
+            "hu": "Belgium"
+        },
+        "independent": false
+    },
+    {
+        "name": "Germany",
+        "alpha2Code": "DE",
+        "nativeName": "Deutschland",
+        "translations": {
+            "br": "Alamagn",
+            "pt": "Alemanha",
+            "nl": "Duitsland",
+            "hr": "Njemačka",
+            "fa": "آلمان",
+            "de": "Deutschland",
+            "es": "Alemania",
+            "fr": "Allemagne",
+            "ja": "ドイツ",
+            "it": "Germania",
+            "hu": "Grúzia"
+        },
+        "independent": false
+    },
+    {
+        "name": "Liechtenstein",
+        "alpha2Code": "LI",
+        "nativeName": "Liechtenstein",
+        "translations": {
+            "br": "Liechtenstein",
+            "pt": "Listenstaine",
+            "nl": "Liechtenstein",
+            "hr": "Lihtenštajn",
+            "fa": "لیختن‌اشتاین",
+            "de": "Liechtenstein",
+            "es": "Liechtenstein",
+            "fr": "Liechtenstein",
+            "ja": "リヒテンシュタイン",
+            "it": "Liechtenstein",
+            "hu": "Liechtenstein"
+        },
+        "independent": false
+    },
+    {
+        "name": "Luxembourg",
+        "alpha2Code": "LU",
+        "nativeName": "Lëtzebuerg",
+        "translations": {
+            "br": "Luksembourg",
+            "pt": "Luxemburgo",
+            "nl": "Luxemburg",
+            "hr": "Luksemburg",
+            "fa": "لوکزامبورگ",
+            "de": "Luxemburg",
+            "es": "Luxemburgo",
+            "fr": "Luxembourg",
+            "ja": "ルクセンブルク",
+            "it": "Lussemburgo",
+            "hu": "Luxemburg"
+        },
+        "independent": false
+    },
+    {
+        "name": "Switzerland",
+        "alpha2Code": "CH",
+        "nativeName": "Schweiz",
+        "translations": {
+            "br": "Suis",
+            "pt": "Suíça",
+            "nl": "Zwitserland",
+            "hr": "Švicarska",
+            "fa": "سوئیس",
+            "de": "Schweiz",
+            "es": "Suiza",
+            "fr": "Suisse",
+            "ja": "スイス",
+            "it": "Svizzera",
+            "hu": "Svájc"
+        },
+        "independent": false
+    }
+]

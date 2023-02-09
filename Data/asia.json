@@ -1,0 +1,952 @@
+[
+	{
+		"name": "Afghanistan",
+		"alpha2Code": "AF",
+		"nativeName": "افغانستان",
+		"translations": {
+			"br": "Afghanistan",
+			"pt": "Afeganistão",
+			"nl": "Afghanistan",
+			"hr": "Afganistan",
+			"fa": "افغانستان",
+			"de": "Afghanistan",
+			"es": "Afganistán",
+			"fr": "Afghanistan",
+			"ja": "アフガニスタン",
+			"it": "Afghanistan",
+			"hu": "Afganisztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Armenia",
+		"alpha2Code": "AM",
+		"nativeName": "Հայաստան",
+		"translations": {
+			"br": "Armenia",
+			"pt": "Arménia",
+			"nl": "Armenië",
+			"hr": "Armenija",
+			"fa": "ارمنستان",
+			"de": "Armenien",
+			"es": "Armenia",
+			"fr": "Arménie",
+			"ja": "アルメニア",
+			"it": "Armenia",
+			"hu": "Örményország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Azerbaijan",
+		"alpha2Code": "AZ",
+		"nativeName": "Azərbaycan",
+		"translations": {
+			"br": "Azerbaidjan",
+			"pt": "Azerbaijão",
+			"nl": "Azerbeidzjan",
+			"hr": "Azerbajdžan",
+			"fa": "آذربایجان",
+			"de": "Aserbaidschan",
+			"es": "Azerbaiyán",
+			"fr": "Azerbaïdjan",
+			"ja": "アゼルバイジャン",
+			"it": "Azerbaijan",
+			"hu": "Azerbajdzsán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bahrain",
+		"alpha2Code": "BH",
+		"nativeName": "‏البحرين",
+		"translations": {
+			"br": "Bahrein",
+			"pt": "Barém",
+			"nl": "Bahrein",
+			"hr": "Bahrein",
+			"fa": "بحرین",
+			"de": "Bahrain",
+			"es": "Bahrein",
+			"fr": "Bahreïn",
+			"ja": "バーレーン",
+			"it": "Bahrein",
+			"hu": "Bahrein"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bangladesh",
+		"alpha2Code": "BD",
+		"nativeName": "Bangladesh",
+		"translations": {
+			"br": "Bangladesh",
+			"pt": "Bangladeche",
+			"nl": "Bangladesh",
+			"hr": "Bangladeš",
+			"fa": "بنگلادش",
+			"de": "Bangladesch",
+			"es": "Bangladesh",
+			"fr": "Bangladesh",
+			"ja": "バングラデシュ",
+			"it": "Bangladesh",
+			"hu": "Banglades"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bhutan",
+		"alpha2Code": "BT",
+		"nativeName": "ʼbrug-yul",
+		"translations": {
+			"br": "Bhoutan",
+			"pt": "Butão",
+			"nl": "Bhutan",
+			"hr": "Butan",
+			"fa": "بوتان",
+			"de": "Bhutan",
+			"es": "Bután",
+			"fr": "Bhoutan",
+			"ja": "ブータン",
+			"it": "Bhutan",
+			"hu": "Bhután"
+		},
+		"independent": false
+	},
+	{
+		"name": "Brunei Darussalam",
+		"alpha2Code": "BN",
+		"nativeName": "Negara Brunei Darussalam",
+		"translations": {
+			"br": "Brunei",
+			"pt": "Brunei",
+			"nl": "Brunei",
+			"hr": "Brunej",
+			"fa": "برونئی",
+			"de": "Brunei",
+			"es": "Brunei",
+			"fr": "Brunei",
+			"ja": "ブルネイ・ダルサラーム",
+			"it": "Brunei",
+			"hu": "Brunei"
+		},
+		"independent": false
+	},
+	{
+		"name": "Cambodia",
+		"alpha2Code": "KH",
+		"nativeName": "Kâmpŭchéa",
+		"translations": {
+			"br": "Kambodja",
+			"pt": "Camboja",
+			"nl": "Cambodja",
+			"hr": "Kambodža",
+			"fa": "کامبوج",
+			"de": "Kambodscha",
+			"es": "Camboya",
+			"fr": "Cambodge",
+			"ja": "カンボジア",
+			"it": "Cambogia",
+			"hu": "Kambodzsa"
+		},
+		"independent": false
+	},
+	{
+		"name": "China",
+		"alpha2Code": "CN",
+		"nativeName": "中国",
+		"translations": {
+			"br": "Sina",
+			"pt": "China",
+			"nl": "China",
+			"hr": "Kina",
+			"fa": "چین",
+			"de": "China",
+			"es": "China",
+			"fr": "Chine",
+			"ja": "中国",
+			"it": "Cina",
+			"hu": "Kína"
+		},
+		"independent": false
+	},
+	{
+		"name": "Georgia",
+		"alpha2Code": "GE",
+		"nativeName": "საქართველო",
+		"translations": {
+			"br": "Jorjia",
+			"pt": "Geórgia",
+			"nl": "Georgië",
+			"hr": "Németország",
+			"fa": "گرجستان",
+			"de": "Georgien",
+			"es": "Georgia",
+			"fr": "Géorgie",
+			"ja": "グルジア",
+			"it": "Georgia",
+			"hu": "Grúzia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Hong Kong",
+		"alpha2Code": "HK",
+		"nativeName": "香港",
+		"translations": {
+			"br": "Hong Kong",
+			"pt": "Hong Kong",
+			"nl": "Hongkong",
+			"hr": "Hong Kong",
+			"fa": "هنگ‌کنگ",
+			"de": "Hong Kong",
+			"es": "Hong Kong",
+			"fr": "Hong Kong",
+			"ja": "香港",
+			"it": "Hong Kong",
+			"hu": "Hong Kong"
+		},
+		"independent": false
+	},
+	{
+		"name": "India",
+		"alpha2Code": "IN",
+		"nativeName": "भारत",
+		"translations": {
+			"br": "India",
+			"pt": "Índia",
+			"nl": "India",
+			"hr": "Indija",
+			"fa": "هند",
+			"de": "Indien",
+			"es": "India",
+			"fr": "Inde",
+			"ja": "インド",
+			"it": "India",
+			"hu": "India"
+		},
+		"independent": false
+	},
+	{
+		"name": "Indonesia",
+		"alpha2Code": "ID",
+		"nativeName": "Indonesia",
+		"translations": {
+			"br": "Indonezia",
+			"pt": "Indonésia",
+			"nl": "Indonesië",
+			"hr": "Indonezija",
+			"fa": "اندونزی",
+			"de": "Indonesien",
+			"es": "Indonesia",
+			"fr": "Indonésie",
+			"ja": "インドネシア",
+			"it": "Indonesia",
+			"hu": "Indonézia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Iran (Islamic Republic of)",
+		"alpha2Code": "IR",
+		"nativeName": "ایران",
+		"translations": {
+			"br": "Iran",
+			"pt": "Irão",
+			"nl": "Iran",
+			"hr": "Iran",
+			"fa": "ایران",
+			"de": "Iran",
+			"es": "Iran",
+			"fr": "Iran",
+			"ja": "イラン・イスラム共和国",
+			"it": "Iran (Islamic Republic of)",
+			"hu": "Irán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Iraq",
+		"alpha2Code": "IQ",
+		"nativeName": "العراق",
+		"translations": {
+			"br": "Irak",
+			"pt": "Iraque",
+			"nl": "Irak",
+			"hr": "Irak",
+			"fa": "عراق",
+			"de": "Irak",
+			"es": "Irak",
+			"fr": "Irak",
+			"ja": "イラク",
+			"it": "Iraq",
+			"hu": "Irak"
+		},
+		"independent": false
+	},
+	{
+		"name": "Israel",
+		"alpha2Code": "IL",
+		"nativeName": "יִשְׂרָאֵל",
+		"translations": {
+			"br": "Israel",
+			"pt": "Israel",
+			"nl": "Israël",
+			"hr": "Izrael",
+			"fa": "اسرائیل",
+			"de": "Israel",
+			"es": "Israel",
+			"fr": "Israël",
+			"ja": "イスラエル",
+			"it": "Israele",
+			"hu": "Izrael"
+		},
+		"independent": false
+	},
+	{
+		"name": "Japan",
+		"alpha2Code": "JP",
+		"nativeName": "日本",
+		"translations": {
+			"br": "Japan",
+			"pt": "Japão",
+			"nl": "Japan",
+			"hr": "Japan",
+			"fa": "ژاپن",
+			"de": "Japan",
+			"es": "Japón",
+			"fr": "Japon",
+			"ja": "日本",
+			"it": "Giappone",
+			"hu": "Japán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Jordan",
+		"alpha2Code": "JO",
+		"nativeName": "الأردن",
+		"translations": {
+			"br": "Jordania",
+			"pt": "Jordânia",
+			"nl": "Jordanië",
+			"hr": "Jordan",
+			"fa": "اردن",
+			"de": "Jordanien",
+			"es": "Jordania",
+			"fr": "Jordanie",
+			"ja": "ヨルダン",
+			"it": "Giordania",
+			"hu": "Jordánia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Kazakhstan",
+		"alpha2Code": "KZ",
+		"nativeName": "Қазақстан",
+		"translations": {
+			"br": "Kazakstan",
+			"pt": "Cazaquistão",
+			"nl": "Kazachstan",
+			"hr": "Kazahstan",
+			"fa": "قزاقستان",
+			"de": "Kasachstan",
+			"es": "Kazajistán",
+			"fr": "Kazakhstan",
+			"ja": "カザフスタン",
+			"it": "Kazakistan",
+			"hu": "Kazahsztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Kuwait",
+		"alpha2Code": "KW",
+		"nativeName": "الكويت",
+		"translations": {
+			"br": "Koweit",
+			"pt": "Kuwait",
+			"nl": "Koeweit",
+			"hr": "Kuvajt",
+			"fa": "کویت",
+			"de": "Kuwait",
+			"es": "Kuwait",
+			"fr": "Koweït",
+			"ja": "クウェート",
+			"it": "Kuwait",
+			"hu": "Kuvait"
+		},
+		"independent": false
+	},
+	{
+		"name": "Kyrgyzstan",
+		"alpha2Code": "KG",
+		"nativeName": "Кыргызстан",
+		"translations": {
+			"br": "Kirgizstan",
+			"pt": "Quirguizistão",
+			"nl": "Kirgizië",
+			"hr": "Kirgistan",
+			"fa": "قرقیزستان",
+			"de": "Kirgisistan",
+			"es": "Kirguizistán",
+			"fr": "Kirghizistan",
+			"ja": "キルギス",
+			"it": "Kirghizistan",
+			"hu": "Kirgizisztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Lao People's Democratic Republic",
+		"alpha2Code": "LA",
+		"nativeName": "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ",
+		"translations": {
+			"br": "Laos",
+			"pt": "Laos",
+			"nl": "Laos",
+			"hr": "Laos",
+			"fa": "لائوس",
+			"de": "Laos",
+			"es": "Laos",
+			"fr": "Laos",
+			"ja": "ラオス人民民主共和国",
+			"it": "Laos",
+			"hu": "Laosz"
+		},
+		"independent": false
+	},
+	{
+		"name": "Lebanon",
+		"alpha2Code": "LB",
+		"nativeName": "لبنان",
+		"translations": {
+			"br": "Liban",
+			"pt": "Líbano",
+			"nl": "Libanon",
+			"hr": "Libanon",
+			"fa": "لبنان",
+			"de": "Libanon",
+			"es": "Líbano",
+			"fr": "Liban",
+			"ja": "レバノン",
+			"it": "Libano",
+			"hu": "Libanon"
+		},
+		"independent": false
+	},
+	{
+		"name": "Macao",
+		"alpha2Code": "MO",
+		"nativeName": "澳門",
+		"translations": {
+			"br": "Makao",
+			"pt": "Macau",
+			"nl": "Macao",
+			"hr": "Makao",
+			"fa": "مکائو",
+			"de": "Macao",
+			"es": "Macao",
+			"fr": "Macao",
+			"ja": "マカオ",
+			"it": "Macao",
+			"hu": "Makaó"
+		},
+		"independent": false
+	},
+	{
+		"name": "Malaysia",
+		"alpha2Code": "MY",
+		"nativeName": "Malaysia",
+		"translations": {
+			"br": "Malaysia",
+			"pt": "Malásia",
+			"nl": "Maleisië",
+			"hr": "Malezija",
+			"fa": "مالزی",
+			"de": "Malaysia",
+			"es": "Malasia",
+			"fr": "Malaisie",
+			"ja": "マレーシア",
+			"it": "Malesia",
+			"hu": "Malajzia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Maldives",
+		"alpha2Code": "MV",
+		"nativeName": "Maldives",
+		"translations": {
+			"br": "Maldivez",
+			"pt": "Maldivas",
+			"nl": "Maldiven",
+			"hr": "Maldivi",
+			"fa": "مالدیو",
+			"de": "Malediven",
+			"es": "Maldivas",
+			"fr": "Maldives",
+			"ja": "モルディブ",
+			"it": "Maldive",
+			"hu": "Maldív-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Mongolia",
+		"alpha2Code": "MN",
+		"nativeName": "Монгол улс",
+		"translations": {
+			"br": "Mongolia",
+			"pt": "Mongólia",
+			"nl": "Mongolië",
+			"hr": "Mongolija",
+			"fa": "مغولستان",
+			"de": "Mongolei",
+			"es": "Mongolia",
+			"fr": "Mongolie",
+			"ja": "モンゴル",
+			"it": "Mongolia",
+			"hu": "Mongólia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Myanmar",
+		"alpha2Code": "MM",
+		"nativeName": "Myanma",
+		"translations": {
+			"br": "Myanmar",
+			"pt": "Myanmar",
+			"nl": "Myanmar",
+			"hr": "Mijanmar",
+			"fa": "میانمار",
+			"de": "Myanmar",
+			"es": "Myanmar",
+			"fr": "Myanmar",
+			"ja": "ミャンマー",
+			"it": "Birmania",
+			"hu": "Mianmar"
+		},
+		"independent": false
+	},
+	{
+		"name": "Nepal",
+		"alpha2Code": "NP",
+		"nativeName": "नेपाल",
+		"translations": {
+			"br": "Nepal",
+			"pt": "Nepal",
+			"nl": "Nepal",
+			"hr": "Nepal",
+			"fa": "نپال",
+			"de": "Népal",
+			"es": "Nepal",
+			"fr": "Népal",
+			"ja": "ネパール",
+			"it": "Nepal",
+			"hu": "Nepál"
+		},
+		"independent": false
+	},
+	{
+		"name": "Korea (Democratic People's Republic of)",
+		"alpha2Code": "KP",
+		"nativeName": "북한",
+		"translations": {
+			"br": "Korea an Norzh",
+			"pt": "Coreia do Norte",
+			"nl": "Noord-Korea",
+			"hr": "Sjeverna Koreja",
+			"fa": "کره جنوبی",
+			"de": "Nordkorea",
+			"es": "Corea del Norte",
+			"fr": "Corée du Nord",
+			"ja": "朝鮮民主主義人民共和国",
+			"it": "Corea del Nord",
+			"hu": "Észak-Korea"
+		},
+		"independent": false
+	},
+	{
+		"name": "Oman",
+		"alpha2Code": "OM",
+		"nativeName": "عمان",
+		"translations": {
+			"br": "Oman",
+			"pt": "Omã",
+			"nl": "Oman",
+			"hr": "Oman",
+			"fa": "عمان",
+			"de": "Oman",
+			"es": "Omán",
+			"fr": "Oman",
+			"ja": "オマーン",
+			"it": "oman",
+			"hu": "Omán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Pakistan",
+		"alpha2Code": "PK",
+		"nativeName": "Pakistan",
+		"translations": {
+			"br": "Pakistan",
+			"pt": "Paquistão",
+			"nl": "Pakistan",
+			"hr": "Pakistan",
+			"fa": "پاکستان",
+			"de": "Pakistan",
+			"es": "Pakistán",
+			"fr": "Pakistan",
+			"ja": "パキスタン",
+			"it": "Pakistan",
+			"hu": "Pakisztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Palestine, State of",
+		"alpha2Code": "PS",
+		"nativeName": "فلسطين",
+		"translations": {
+			"br": "Palestina",
+			"pt": "Palestina",
+			"nl": "Palestijnse gebieden",
+			"hr": "Palestina",
+			"fa": "فلسطین",
+			"de": "Palästina",
+			"es": "Palestina",
+			"fr": "Palestine",
+			"ja": "パレスチナ",
+			"it": "Palestina",
+			"hu": "Palesztina"
+		},
+		"independent": false
+	},
+	{
+		"name": "Philippines",
+		"alpha2Code": "PH",
+		"nativeName": "Pilipinas",
+		"translations": {
+			"br": "Filipinez",
+			"pt": "Filipinas",
+			"nl": "Filipijnen",
+			"hr": "Filipini",
+			"fa": "جزایر الندفیلیپین",
+			"de": "Philippinen",
+			"es": "Filipinas",
+			"fr": "Philippines",
+			"ja": "フィリピン",
+			"it": "Filippine",
+			"hu": "Fülöp-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Qatar",
+		"alpha2Code": "QA",
+		"nativeName": "قطر",
+		"translations": {
+			"br": "Katar",
+			"pt": "Catar",
+			"nl": "Qatar",
+			"hr": "Katar",
+			"fa": "قطر",
+			"de": "Katar",
+			"es": "Catar",
+			"fr": "Qatar",
+			"ja": "カタール",
+			"it": "Qatar",
+			"hu": "Katar"
+		},
+		"independent": false
+	},
+	{
+		"name": "Saudi Arabia",
+		"alpha2Code": "SA",
+		"nativeName": "العربية السعودية",
+		"translations": {
+			"br": "Arabia Saoudat",
+			"pt": "Arábia Saudita",
+			"nl": "Saoedi-Arabië",
+			"hr": "Saudijska Arabija",
+			"fa": "عربستان سعودی",
+			"de": "Saudi-Arabien",
+			"es": "Arabia Saudí",
+			"fr": "Arabie Saoudite",
+			"ja": "サウジアラビア",
+			"it": "Arabia Saudita",
+			"hu": "Szaúd-Arábia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Singapore",
+		"alpha2Code": "SG",
+		"nativeName": "Singapore",
+		"translations": {
+			"br": "Singapour",
+			"pt": "Singapura",
+			"nl": "Singapore",
+			"hr": "Singapur",
+			"fa": "سنگاپور",
+			"de": "Singapur",
+			"es": "Singapur",
+			"fr": "Singapour",
+			"ja": "シンガポール",
+			"it": "Singapore",
+			"hu": "Szingapúr"
+		},
+		"independent": false
+	},
+	{
+		"name": "Korea (Republic of)",
+		"alpha2Code": "KR",
+		"nativeName": "대한민국",
+		"translations": {
+			"br": "Korea ar Su",
+			"pt": "Coreia do Sul",
+			"nl": "Zuid-Korea",
+			"hr": "Južna Koreja",
+			"fa": "کره شمالی",
+			"de": "Südkorea",
+			"es": "Corea del Sur",
+			"fr": "Corée du Sud",
+			"ja": "大韓民国",
+			"it": "Corea del Sud",
+			"hu": "Dél-Korea"
+		},
+		"independent": false
+	},
+	{
+		"name": "Sri Lanka",
+		"alpha2Code": "LK",
+		"nativeName": "śrī laṃkāva",
+		"translations": {
+			"br": "Sri Lanka",
+			"pt": "Sri Lanka",
+			"nl": "Sri Lanka",
+			"hr": "Šri Lanka",
+			"fa": "سری‌لانکا",
+			"de": "Sri Lanka",
+			"es": "Sri Lanka",
+			"fr": "Sri Lanka",
+			"ja": "スリランカ",
+			"it": "Sri Lanka",
+			"hu": "Srí Lanka"
+		},
+		"independent": false
+	},
+	{
+		"name": "Syrian Arab Republic",
+		"alpha2Code": "SY",
+		"nativeName": "سوريا",
+		"translations": {
+			"br": "Siria",
+			"pt": "Síria",
+			"nl": "Syrië",
+			"hr": "Sirija",
+			"fa": "سوریه",
+			"de": "Syrien",
+			"es": "Siria",
+			"fr": "Syrie",
+			"ja": "シリア・アラブ共和国",
+			"it": "Siria",
+			"hu": "Szíria"
+		},
+		"independent": false
+	},
+	{
+		"name": "Taiwan",
+		"alpha2Code": "TW",
+		"nativeName": "臺灣",
+		"translations": {
+			"br": "Taiwan",
+			"pt": "Taiwan",
+			"nl": "Taiwan",
+			"hr": "Tajvan",
+			"fa": "تایوان",
+			"de": "Taiwan",
+			"es": "Taiwán",
+			"fr": "Taïwan",
+			"ja": "台湾（中華民国）",
+			"it": "Taiwan",
+			"hu": "Tajvan"
+		},
+		"independent": false
+	},
+	{
+		"name": "Tajikistan",
+		"alpha2Code": "TJ",
+		"nativeName": "Тоҷикистон",
+		"translations": {
+			"br": "Tadjikistan",
+			"pt": "Tajiquistão",
+			"nl": "Tadzjikistan",
+			"hr": "Tađikistan",
+			"fa": "تاجیکستان",
+			"de": "Tadschikistan",
+			"es": "Tayikistán",
+			"fr": "Tadjikistan",
+			"ja": "タジキスタン",
+			"it": "Tagikistan",
+			"hu": "Tádzsikisztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Thailand",
+		"alpha2Code": "TH",
+		"nativeName": "ประเทศไทย",
+		"translations": {
+			"br": "Thailand",
+			"pt": "Tailândia",
+			"nl": "Thailand",
+			"hr": "Tajland",
+			"fa": "تایلند",
+			"de": "Thailand",
+			"es": "Tailandia",
+			"fr": "Thaïlande",
+			"ja": "タイ",
+			"it": "Tailandia",
+			"hu": "Thaiföld"
+		},
+		"independent": false
+	},
+	{
+		"name": "Timor-Leste",
+		"alpha2Code": "TL",
+		"nativeName": "Timor-Leste",
+		"translations": {
+			"br": "Timor ar Reter",
+			"pt": "Timor Leste",
+			"nl": "Oost-Timor",
+			"hr": "Istočni Timor",
+			"fa": "تیمور شرقی",
+			"de": "Timor-Leste",
+			"es": "Timor Oriental",
+			"fr": "Timor oriental",
+			"ja": "東ティモール",
+			"it": "Timor Est",
+			"hu": "Kelet-Timor"
+		},
+		"independent": false
+	},
+	{
+		"name": "Turkey",
+		"alpha2Code": "TR",
+		"nativeName": "Türkiye",
+		"translations": {
+			"br": "Turkia",
+			"pt": "Turquia",
+			"nl": "Turkije",
+			"hr": "Turska",
+			"fa": "ترکیه",
+			"de": "Türkei",
+			"es": "Turquía",
+			"fr": "Turquie",
+			"ja": "トルコ",
+			"it": "Turchia",
+			"hu": "Törökország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Turkmenistan",
+		"alpha2Code": "TM",
+		"nativeName": "Türkmenistan",
+		"translations": {
+			"br": "Turkmenistan",
+			"pt": "Turquemenistão",
+			"nl": "Turkmenistan",
+			"hr": "Turkmenistan",
+			"fa": "ترکمنستان",
+			"de": "Turkmenistan",
+			"es": "Turkmenistán",
+			"fr": "Turkménistan",
+			"ja": "トルクメニスタン",
+			"it": "Turkmenistan",
+			"hu": "Türkmenisztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "United Arab Emirates",
+		"alpha2Code": "AE",
+		"nativeName": "دولة الإمارات العربية المتحدة",
+		"translations": {
+			"br": "Emirelezhioù Arab Unanet",
+			"pt": "Emirados árabes Unidos",
+			"nl": "Verenigde Arabische Emiraten",
+			"hr": "Ujedinjeni Arapski Emirati",
+			"fa": "امارات متحده عربی",
+			"de": "Vereinigte Arabische Emirate",
+			"es": "Emiratos Árabes Unidos",
+			"fr": "Émirats arabes unis",
+			"ja": "アラブ首長国連邦",
+			"it": "Emirati Arabi Uniti",
+			"hu": "Egyesült Arab Emírségek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Uzbekistan",
+		"alpha2Code": "UZ",
+		"nativeName": "O‘zbekiston",
+		"translations": {
+			"br": "Ouzbekistan",
+			"pt": "Usbequistão",
+			"nl": "Oezbekistan",
+			"hr": "Uzbekistan",
+			"fa": "ازبکستان",
+			"de": "Usbekistan",
+			"es": "Uzbekistán",
+			"fr": "Ouzbékistan",
+			"ja": "ウズベキスタン",
+			"it": "Uzbekistan",
+			"hu": "Üzbegisztán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Vietnam",
+		"alpha2Code": "VN",
+		"nativeName": "Việt Nam",
+		"translations": {
+			"br": "Viêt Nam",
+			"pt": "Vietname",
+			"nl": "Vietnam",
+			"hr": "Vijetnam",
+			"fa": "ویتنام",
+			"de": "Vietnam",
+			"es": "Vietnam",
+			"fr": "Viêt Nam",
+			"ja": "ベトナム",
+			"it": "Vietnam",
+			"hu": "Vietnám"
+		},
+		"independent": false
+	},
+	{
+		"name": "Yemen",
+		"alpha2Code": "YE",
+		"nativeName": "اليَمَن",
+		"translations": {
+			"br": "Yemen",
+			"pt": "Iémen",
+			"nl": "Jemen",
+			"hr": "Jemen",
+			"fa": "یمن",
+			"de": "Jemen",
+			"es": "Yemen",
+			"fr": "Yémen",
+			"ja": "イエメン",
+			"it": "Yemen",
+			"hu": "Jemen"
+		},
+		"independent": false
+	}
+]

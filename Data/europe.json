@@ -1,0 +1,1008 @@
+[
+	{
+		"name": "Åland Islands",
+		"alpha2Code": "AX",
+		"nativeName": "Åland",
+		"translations": {
+			"br": "Åland",
+			"pt": "Ilhas de Aland",
+			"nl": "Ålandeilanden",
+			"hr": "Ålandski otoci",
+			"fa": "جزایر الند",
+			"de": "Åland",
+			"es": "Alandia",
+			"fr": "Åland",
+			"ja": "オーランド諸島",
+			"it": "Isole Aland",
+			"hu": "Åland-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Albania",
+		"alpha2Code": "AL",
+		"nativeName": "Shqipëria",
+		"translations": {
+			"br": "Albania",
+			"pt": "Albânia",
+			"nl": "Albanië",
+			"hr": "Albanija",
+			"fa": "آلبانی",
+			"de": "Albanien",
+			"es": "Albania",
+			"fr": "Albanie",
+			"ja": "アルバニア",
+			"it": "Albania",
+			"hu": "Albánia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Andorra",
+		"alpha2Code": "AD",
+		"nativeName": "Andorra",
+		"translations": {
+			"br": "Andorra",
+			"pt": "Andorra",
+			"nl": "Andorra",
+			"hr": "Andora",
+			"fa": "آندورا",
+			"de": "Andorra",
+			"es": "Andorra",
+			"fr": "Andorre",
+			"ja": "アンドラ",
+			"it": "Andorra",
+			"hu": "Andorra"
+		},
+		"independent": false
+	},
+	{
+		"name": "Austria",
+		"alpha2Code": "AT",
+		"nativeName": "Österreich",
+		"translations": {
+			"br": "Aostria",
+			"pt": "Áustria",
+			"nl": "Oostenrijk",
+			"hr": "Austrija",
+			"fa": "اتریش",
+			"de": "Österreich",
+			"es": "Austria",
+			"fr": "Autriche",
+			"ja": "オーストリア",
+			"it": "Austria",
+			"hu": "Ausztria"
+		},
+		"independent": false
+	},
+	{
+		"name": "Belarus",
+		"alpha2Code": "BY",
+		"nativeName": "Белару́сь",
+		"translations": {
+			"br": "Belarus",
+			"pt": "Bielorrússia",
+			"nl": "Wit-Rusland",
+			"hr": "Bjelorusija",
+			"fa": "بلاروس",
+			"de": "Weißrussland",
+			"es": "Bielorrusia",
+			"fr": "Biélorussie",
+			"ja": "ベラルーシ",
+			"it": "Bielorussia",
+			"hu": "Fehéroroszország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Belgium",
+		"alpha2Code": "BE",
+		"nativeName": "België",
+		"translations": {
+			"br": "Belgia",
+			"pt": "Bélgica",
+			"nl": "België",
+			"hr": "Belgija",
+			"fa": "بلژیک",
+			"de": "Belgien",
+			"es": "Bélgica",
+			"fr": "Belgique",
+			"ja": "ベルギー",
+			"it": "Belgio",
+			"hu": "Belgium"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bosnia and Herzegovina",
+		"alpha2Code": "BA",
+		"nativeName": "Bosna i Hercegovina",
+		"translations": {
+			"br": "Bosnia-ha-Herzegovina",
+			"pt": "Bósnia e Herzegovina",
+			"nl": "Bosnië en Herzegovina",
+			"hr": "Bosna i Hercegovina",
+			"fa": "بوسنی و هرزگوین",
+			"de": "Bosnien und Herzegowina",
+			"es": "Bosnia y Herzegovina",
+			"fr": "Bosnie-Herzégovine",
+			"ja": "ボスニア・ヘルツェゴビナ",
+			"it": "Bosnia ed Erzegovina",
+			"hu": "Bosznia-Hercegovina"
+		},
+		"independent": false
+	},
+	{
+		"name": "Bulgaria",
+		"alpha2Code": "BG",
+		"nativeName": "България",
+		"translations": {
+			"br": "Bulgaria",
+			"pt": "Bulgária",
+			"nl": "Bulgarije",
+			"hr": "Bugarska",
+			"fa": "بلغارستان",
+			"de": "Bulgarien",
+			"es": "Bulgaria",
+			"fr": "Bulgarie",
+			"ja": "ブルガリア",
+			"it": "Bulgaria",
+			"hu": "Bulgária"
+		},
+		"independent": false
+	},
+	{
+		"name": "Croatia",
+		"alpha2Code": "HR",
+		"nativeName": "Hrvatska",
+		"translations": {
+			"br": "Kroatia",
+			"pt": "Croácia",
+			"nl": "Kroatië",
+			"hr": "Hrvatska",
+			"fa": "کرواسی",
+			"de": "Kroatien",
+			"es": "Croacia",
+			"fr": "Croatie",
+			"ja": "クロアチア",
+			"it": "Croazia",
+			"hu": "Horvátország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Cyprus",
+		"alpha2Code": "CY",
+		"nativeName": "Κύπρος",
+		"translations": {
+			"br": "Kiprenez",
+			"pt": "Chipre",
+			"nl": "Cyprus",
+			"hr": "Cipar",
+			"fa": "قبرس",
+			"de": "Zypern",
+			"es": "Chipre",
+			"fr": "Chypre",
+			"ja": "キプロス",
+			"it": "Cipro",
+			"hu": "Ciprus"
+		},
+		"independent": false
+	},
+	{
+		"name": "Czech Republic",
+		"alpha2Code": "CZ",
+		"nativeName": "Česká republika",
+		"translations": {
+			"br": "Tchekia",
+			"pt": "República Checa",
+			"nl": "Tsjechië",
+			"hr": "Češka",
+			"fa": "جمهوری چک",
+			"de": "Tschechische Republik",
+			"es": "República Checa",
+			"fr": "République tchèque",
+			"ja": "チェコ",
+			"it": "Repubblica Ceca",
+			"hu": "Csehország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Denmark",
+		"alpha2Code": "DK",
+		"nativeName": "Danmark",
+		"translations": {
+			"br": "Danmark",
+			"pt": "Dinamarca",
+			"nl": "Denemarken",
+			"hr": "Danska",
+			"fa": "دانمارک",
+			"de": "Dänemark",
+			"es": "Dinamarca",
+			"fr": "Danemark",
+			"ja": "デンマーク",
+			"it": "Danimarca",
+			"hu": "Dánia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Estonia",
+		"alpha2Code": "EE",
+		"nativeName": "Eesti",
+		"translations": {
+			"br": "Estonia",
+			"pt": "Estónia",
+			"nl": "Estland",
+			"hr": "Estonija",
+			"fa": "استونی",
+			"de": "Estland",
+			"es": "Estonia",
+			"fr": "Estonie",
+			"ja": "エストニア",
+			"it": "Estonia",
+			"hu": "Észtország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Faroe Islands",
+		"alpha2Code": "FO",
+		"nativeName": "Føroyar",
+		"translations": {
+			"br": "Inizi Faero",
+			"pt": "Ilhas Faroé",
+			"nl": "Faeröer",
+			"hr": "Farski Otoci",
+			"fa": "جزایر فارو",
+			"de": "Färöer-Inseln",
+			"es": "Islas Faroe",
+			"fr": "Îles Féroé",
+			"ja": "フェロー諸島",
+			"it": "Isole Far Oer",
+			"hu": "Feröer"
+		},
+		"independent": false
+	},
+	{
+		"name": "Finland",
+		"alpha2Code": "FI",
+		"nativeName": "Suomi",
+		"translations": {
+			"br": "Finland",
+			"pt": "Finlândia",
+			"nl": "Finland",
+			"hr": "Finska",
+			"fa": "فنلاند",
+			"de": "Finnland",
+			"es": "Finlandia",
+			"fr": "Finlande",
+			"ja": "フィンランド",
+			"it": "Finlandia",
+			"hu": "Finnország"
+		},
+		"independent": false
+	},
+	{
+		"name": "France",
+		"alpha2Code": "FR",
+		"nativeName": "France",
+		"translations": {
+			"br": "Frañs",
+			"pt": "França",
+			"nl": "Frankrijk",
+			"hr": "Francuska",
+			"fa": "فرانسه",
+			"de": "Frankreich",
+			"es": "Francia",
+			"fr": "France",
+			"ja": "フランス",
+			"it": "Francia",
+			"hu": "Franciaország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Germany",
+		"alpha2Code": "DE",
+		"nativeName": "Deutschland",
+		"translations": {
+			"br": "Alamagn",
+			"pt": "Alemanha",
+			"nl": "Duitsland",
+			"hr": "Njemačka",
+			"fa": "آلمان",
+			"de": "Deutschland",
+			"es": "Alemania",
+			"fr": "Allemagne",
+			"ja": "ドイツ",
+			"it": "Germania",
+			"hu": "Grúzia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Gibraltar",
+		"alpha2Code": "GI",
+		"nativeName": "Gibraltar",
+		"translations": {
+			"br": "Jibraltar",
+			"pt": "Gibraltar",
+			"nl": "Gibraltar",
+			"hr": "Gibraltar",
+			"fa": "جبل‌طارق",
+			"de": "Gibraltar",
+			"es": "Gibraltar",
+			"fr": "Gibraltar",
+			"ja": "ジブラルタル",
+			"it": "Gibilterra",
+			"hu": "Gibraltár"
+		},
+		"independent": false
+	},
+	{
+		"name": "Greece",
+		"alpha2Code": "GR",
+		"nativeName": "Ελλάδα",
+		"translations": {
+			"br": "Gres",
+			"pt": "Grécia",
+			"nl": "Griekenland",
+			"hr": "Grčka",
+			"fa": "یونان",
+			"de": "Griechenland",
+			"es": "Grecia",
+			"fr": "Grèce",
+			"ja": "ギリシャ",
+			"it": "Grecia",
+			"hu": "Görögország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Guernsey",
+		"alpha2Code": "GG",
+		"nativeName": "Guernsey",
+		"translations": {
+			"br": "Gwernenez",
+			"pt": "Guernsey",
+			"nl": "Guernsey",
+			"hr": "Guernsey",
+			"fa": "گرنزی",
+			"de": "Guernsey",
+			"es": "Guernsey",
+			"fr": "Guernesey",
+			"ja": "ガーンジー",
+			"it": "Guernsey",
+			"hu": "Guernsey"
+		},
+		"independent": false
+	},
+	{
+		"name": "Vatican City",
+		"alpha2Code": "VA",
+		"nativeName": "Status Civitatis Vaticanae",
+		"translations": {
+			"br": "Vatikan",
+			"pt": "Vaticano",
+			"nl": "Heilige Stoel",
+			"hr": "Sveta Stolica",
+			"fa": "سریر مقدس",
+			"de": "Heiliger Stuhl",
+			"es": "Santa Sede",
+			"fr": "Saint-Siège",
+			"ja": "聖座",
+			"it": "Santa Sede",
+			"hu": "Vatikán"
+		},
+		"independent": false
+	},
+	{
+		"name": "Hungary",
+		"alpha2Code": "HU",
+		"nativeName": "Magyarország",
+		"translations": {
+			"br": "Hungaria",
+			"pt": "Hungria",
+			"nl": "Hongarije",
+			"hr": "Mađarska",
+			"fa": "مجارستان",
+			"de": "Ungarn",
+			"es": "Hungría",
+			"fr": "Hongrie",
+			"ja": "ハンガリー",
+			"it": "Ungheria",
+			"hu": "Magyarország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Iceland",
+		"alpha2Code": "IS",
+		"nativeName": "Ísland",
+		"translations": {
+			"br": "Island",
+			"pt": "Islândia",
+			"nl": "IJsland",
+			"hr": "Island",
+			"fa": "ایسلند",
+			"de": "Island",
+			"es": "Islandia",
+			"fr": "Islande",
+			"ja": "アイスランド",
+			"it": "Islanda",
+			"hu": "Izland"
+		},
+		"independent": false
+	},
+	{
+		"name": "Ireland",
+		"alpha2Code": "IE",
+		"nativeName": "Éire",
+		"translations": {
+			"br": "Iwerzhon",
+			"pt": "Irlanda",
+			"nl": "Ierland",
+			"hr": "Irska",
+			"fa": "ایرلند",
+			"de": "Irland",
+			"es": "Irlanda",
+			"fr": "Irlande",
+			"ja": "アイルランド",
+			"it": "Irlanda",
+			"hu": "Írország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Isle of Man",
+		"alpha2Code": "IM",
+		"nativeName": "Isle of Man",
+		"translations": {
+			"br": "Enez Vanav",
+			"pt": "Ilha de Man",
+			"nl": "Isle of Man",
+			"hr": "Otok Man",
+			"fa": "جزیره من",
+			"de": "Insel Man",
+			"es": "Isla de Man",
+			"fr": "Île de Man",
+			"ja": "マン島",
+			"it": "Isola di Man",
+			"hu": "Man"
+		},
+		"independent": false
+	},
+	{
+		"name": "Italy",
+		"alpha2Code": "IT",
+		"nativeName": "Italia",
+		"translations": {
+			"br": "Italia",
+			"pt": "Itália",
+			"nl": "Italië",
+			"hr": "Italija",
+			"fa": "ایتالیا",
+			"de": "Italien",
+			"es": "Italia",
+			"fr": "Italie",
+			"ja": "イタリア",
+			"it": "Italia",
+			"hu": "Olaszország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Jersey",
+		"alpha2Code": "JE",
+		"nativeName": "Jersey",
+		"translations": {
+			"br": "Jerzenez",
+			"pt": "Jersey",
+			"nl": "Jersey",
+			"hr": "Jersey",
+			"fa": "جرزی",
+			"de": "Jersey",
+			"es": "Jersey",
+			"fr": "Jersey",
+			"ja": "ジャージー",
+			"it": "Isola di Jersey",
+			"hu": "Jersey"
+		},
+		"independent": false
+	},
+	{
+		"name": "Latvia",
+		"alpha2Code": "LV",
+		"nativeName": "Latvija",
+		"translations": {
+			"br": "Latvia",
+			"pt": "Letónia",
+			"nl": "Letland",
+			"hr": "Latvija",
+			"fa": "لتونی",
+			"de": "Lettland",
+			"es": "Letonia",
+			"fr": "Lettonie",
+			"ja": "ラトビア",
+			"it": "Lettonia",
+			"hu": "Lettország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Liechtenstein",
+		"alpha2Code": "LI",
+		"nativeName": "Liechtenstein",
+		"translations": {
+			"br": "Liechtenstein",
+			"pt": "Listenstaine",
+			"nl": "Liechtenstein",
+			"hr": "Lihtenštajn",
+			"fa": "لیختن‌اشتاین",
+			"de": "Liechtenstein",
+			"es": "Liechtenstein",
+			"fr": "Liechtenstein",
+			"ja": "リヒテンシュタイン",
+			"it": "Liechtenstein",
+			"hu": "Liechtenstein"
+		},
+		"independent": false
+	},
+	{
+		"name": "Lithuania",
+		"alpha2Code": "LT",
+		"nativeName": "Lietuva",
+		"translations": {
+			"br": "Lituania",
+			"pt": "Lituânia",
+			"nl": "Litouwen",
+			"hr": "Litva",
+			"fa": "لیتوانی",
+			"de": "Litauen",
+			"es": "Lituania",
+			"fr": "Lituanie",
+			"ja": "リトアニア",
+			"it": "Lituania",
+			"hu": "Litvánia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Luxembourg",
+		"alpha2Code": "LU",
+		"nativeName": "Lëtzebuerg",
+		"translations": {
+			"br": "Luksembourg",
+			"pt": "Luxemburgo",
+			"nl": "Luxemburg",
+			"hr": "Luksemburg",
+			"fa": "لوکزامبورگ",
+			"de": "Luxemburg",
+			"es": "Luxemburgo",
+			"fr": "Luxembourg",
+			"ja": "ルクセンブルク",
+			"it": "Lussemburgo",
+			"hu": "Luxemburg"
+		},
+		"independent": false
+	},
+	{
+		"name": "North Macedonia",
+		"alpha2Code": "MK",
+		"nativeName": "Македонија",
+		"translations": {
+			"br": "Makedonia an Norzh",
+			"pt": "Macedónia",
+			"nl": "Macedonië",
+			"hr": "Makedonija",
+			"de": "Mazedonien",
+			"es": "Macedonia",
+			"fr": "Macédoine",
+			"ja": "マケドニア旧ユーゴスラビア共和国",
+			"it": "Macedonia",
+			"hu": "Macedónia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Malta",
+		"alpha2Code": "MT",
+		"nativeName": "Malta",
+		"translations": {
+			"br": "Malta",
+			"pt": "Malta",
+			"nl": "Malta",
+			"hr": "Malta",
+			"fa": "مالت",
+			"de": "Malta",
+			"es": "Malta",
+			"fr": "Malte",
+			"ja": "マルタ",
+			"it": "Malta",
+			"hu": "Málta"
+		},
+		"independent": false
+	},
+	{
+		"name": "Moldova (Republic of)",
+		"alpha2Code": "MD",
+		"nativeName": "Moldova",
+		"translations": {
+			"br": "Moldova",
+			"pt": "Moldávia",
+			"nl": "Moldavië",
+			"hr": "Moldova",
+			"fa": "مولداوی",
+			"de": "Moldawie",
+			"es": "Moldavia",
+			"fr": "Moldavie",
+			"ja": "モルドバ共和国",
+			"it": "Moldavia",
+			"hu": "Moldova"
+		},
+		"independent": false
+	},
+	{
+		"name": "Monaco",
+		"alpha2Code": "MC",
+		"nativeName": "Monaco",
+		"translations": {
+			"br": "Monako",
+			"pt": "Mónaco",
+			"nl": "Monaco",
+			"hr": "Monako",
+			"fa": "موناکو",
+			"de": "Monaco",
+			"es": "Mónaco",
+			"fr": "Monaco",
+			"ja": "モナコ",
+			"it": "Principato di Monaco",
+			"hu": "Monaco"
+		},
+		"independent": false
+	},
+	{
+		"name": "Montenegro",
+		"alpha2Code": "ME",
+		"nativeName": "Црна Гора",
+		"translations": {
+			"br": "Montenegro",
+			"pt": "Montenegro",
+			"nl": "Montenegro",
+			"hr": "Crna Gora",
+			"fa": "مونته‌نگرو",
+			"de": "Montenegro",
+			"es": "Montenegro",
+			"fr": "Monténégro",
+			"ja": "モンテネグロ",
+			"it": "Montenegro",
+			"hu": "Montenegró"
+		},
+		"independent": false
+	},
+	{
+		"name": "Netherlands",
+		"alpha2Code": "NL",
+		"nativeName": "Nederland",
+		"translations": {
+			"br": "Izelvroioù",
+			"pt": "Países Baixos",
+			"nl": "Nederland",
+			"hr": "Nizozemska",
+			"fa": "پادشاهی هلند",
+			"de": "Niederlande",
+			"es": "Países Bajos",
+			"fr": "Pays-Bas",
+			"ja": "オランダ",
+			"it": "Paesi Bassi",
+			"hu": "Hollandia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Norway",
+		"alpha2Code": "NO",
+		"nativeName": "Norge",
+		"translations": {
+			"br": "Norvegia",
+			"pt": "Noruega",
+			"nl": "Noorwegen",
+			"hr": "Norveška",
+			"fa": "نروژ",
+			"de": "Norwegen",
+			"es": "Noruega",
+			"fr": "Norvège",
+			"ja": "ノルウェー",
+			"it": "Norvegia",
+			"hu": "Norvégia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Poland",
+		"alpha2Code": "PL",
+		"nativeName": "Polska",
+		"translations": {
+			"br": "Polonia",
+			"pt": "Polónia",
+			"nl": "Polen",
+			"hr": "Poljska",
+			"fa": "لهستان",
+			"de": "Polen",
+			"es": "Polonia",
+			"fr": "Pologne",
+			"ja": "ポーランド",
+			"it": "Polonia",
+			"hu": "Lengyelország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Portugal",
+		"alpha2Code": "PT",
+		"nativeName": "Portugal",
+		"translations": {
+			"br": "Portugal",
+			"pt": "Portugal",
+			"nl": "Portugal",
+			"hr": "Portugal",
+			"fa": "پرتغال",
+			"de": "Portugal",
+			"es": "Portugal",
+			"fr": "Portugal",
+			"ja": "ポルトガル",
+			"it": "Portogallo",
+			"hu": "Portugália"
+		},
+		"independent": false
+	},
+	{
+		"name": "Republic of Kosovo",
+		"alpha2Code": "XK",
+		"nativeName": "Republika e Kosovës",
+		"translations": {
+			"br": "Kosovo",
+			"pt": "Kosovo",
+			"nl": "Republiek van Kosovo",
+			"hr": "Kosovo",
+			"fa": "کوزوو",
+			"de": "Republic of Kosovo",
+			"es": "Kosovo",
+			"fr": "Kosovo",
+			"ja": "Republic of Kosovo",
+			"it": "Republic of Kosovo",
+			"hu": "Koszovó"
+		},
+		"independent": false
+	},
+	{
+		"name": "Romania",
+		"alpha2Code": "RO",
+		"nativeName": "România",
+		"translations": {
+			"br": "Roumania",
+			"pt": "Roménia",
+			"nl": "Roemenië",
+			"hr": "Rumunjska",
+			"fa": "رومانی",
+			"de": "Rumänien",
+			"es": "Rumania",
+			"fr": "Roumanie",
+			"ja": "ルーマニア",
+			"it": "Romania",
+			"hu": "Románia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Russian Federation",
+		"alpha2Code": "RU",
+		"nativeName": "Россия",
+		"translations": {
+			"br": "Rusia",
+			"pt": "Rússia",
+			"nl": "Rusland",
+			"hr": "Rusija",
+			"fa": "روسیه",
+			"de": "Russland",
+			"es": "Rusia",
+			"fr": "Russie",
+			"ja": "ロシア連邦",
+			"it": "Russia",
+			"hu": "Oroszország"
+		},
+		"independent": false
+	},
+	{
+		"name": "San Marino",
+		"alpha2Code": "SM",
+		"nativeName": "San Marino",
+		"translations": {
+			"br": "San Marino",
+			"pt": "São Marinho",
+			"nl": "San Marino",
+			"hr": "San Marino",
+			"fa": "سان مارینو",
+			"de": "San Marino",
+			"es": "San Marino",
+			"fr": "Saint-Marin",
+			"ja": "サンマリノ",
+			"it": "San Marino",
+			"hu": "San Marino"
+		},
+		"independent": false
+	},
+	{
+		"name": "Serbia",
+		"alpha2Code": "RS",
+		"nativeName": "Србија",
+		"translations": {
+			"br": "Serbia",
+			"pt": "Sérvia",
+			"nl": "Servië",
+			"hr": "Srbija",
+			"fa": "صربستان",
+			"de": "Serbien",
+			"es": "Serbia",
+			"fr": "Serbie",
+			"ja": "セルビア",
+			"it": "Serbia",
+			"hu": "Szerbia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Slovakia",
+		"alpha2Code": "SK",
+		"nativeName": "Slovensko",
+		"translations": {
+			"br": "Slovakia",
+			"pt": "Eslováquia",
+			"nl": "Slowakije",
+			"hr": "Slovačka",
+			"fa": "اسلواکی",
+			"de": "Slowakei",
+			"es": "República Eslovaca",
+			"fr": "Slovaquie",
+			"ja": "スロバキア",
+			"it": "Slovacchia",
+			"hu": "Szlovákia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Slovenia",
+		"alpha2Code": "SI",
+		"nativeName": "Slovenija",
+		"translations": {
+			"br": "Slovenia",
+			"pt": "Eslovénia",
+			"nl": "Slovenië",
+			"hr": "Slovenija",
+			"fa": "اسلوونی",
+			"de": "Slowenien",
+			"es": "Eslovenia",
+			"fr": "Slovénie",
+			"ja": "スロベニア",
+			"it": "Slovenia",
+			"hu": "Szlovénia"
+		},
+		"independent": false
+	},
+	{
+		"name": "Spain",
+		"alpha2Code": "ES",
+		"nativeName": "España",
+		"translations": {
+			"br": "Spagn",
+			"pt": "Espanha",
+			"nl": "Spanje",
+			"hr": "Španjolska",
+			"fa": "اسپانیا",
+			"de": "Spanien",
+			"es": "España",
+			"fr": "Espagne",
+			"ja": "スペイン",
+			"it": "Spagna",
+			"hu": "Spanyolország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Svalbard and Jan Mayen",
+		"alpha2Code": "SJ",
+		"nativeName": "Svalbard og Jan Mayen",
+		"translations": {
+			"br": "Svalbard ha Jan Mayen",
+			"pt": "Svalbard",
+			"nl": "Svalbard en Jan Mayen",
+			"hr": "Svalbard i Jan Mayen",
+			"fa": "سوالبارد و یان ماین",
+			"de": "Svalbard und Jan Mayen",
+			"es": "Islas Svalbard y Jan Mayen",
+			"fr": "Svalbard et Jan Mayen",
+			"ja": "スヴァールバル諸島およびヤンマイエン島",
+			"it": "Svalbard e Jan Mayen",
+			"hu": "Spitzbergák és Jan Mayen-szigetek"
+		},
+		"independent": false
+	},
+	{
+		"name": "Sweden",
+		"alpha2Code": "SE",
+		"nativeName": "Sverige",
+		"translations": {
+			"br": "Sveden",
+			"pt": "Suécia",
+			"nl": "Zweden",
+			"hr": "Švedska",
+			"fa": "سوئد",
+			"de": "Schweden",
+			"es": "Suecia",
+			"fr": "Suède",
+			"ja": "スウェーデン",
+			"it": "Svezia",
+			"hu": "Svédország"
+		},
+		"independent": false
+	},
+	{
+		"name": "Switzerland",
+		"alpha2Code": "CH",
+		"nativeName": "Schweiz",
+		"translations": {
+			"br": "Suis",
+			"pt": "Suíça",
+			"nl": "Zwitserland",
+			"hr": "Švicarska",
+			"fa": "سوئیس",
+			"de": "Schweiz",
+			"es": "Suiza",
+			"fr": "Suisse",
+			"ja": "スイス",
+			"it": "Svizzera",
+			"hu": "Svájc"
+		},
+		"independent": false
+	},
+	{
+		"name": "Ukraine",
+		"alpha2Code": "UA",
+		"nativeName": "Україна",
+		"translations": {
+			"br": "Ukraina",
+			"pt": "Ucrânia",
+			"nl": "Oekraïne",
+			"hr": "Ukrajina",
+			"fa": "وکراین",
+			"de": "Ukraine",
+			"es": "Ucrania",
+			"fr": "Ukraine",
+			"ja": "ウクライナ",
+			"it": "Ucraina",
+			"hu": "Ukrajna"
+		},
+		"independent": false
+	},
+	{
+		"name": "United Kingdom of Great Britain and Northern Ireland",
+		"alpha2Code": "GB",
+		"nativeName": "United Kingdom",
+		"translations": {
+			"br": "Rouantelezh-Unanet",
+			"pt": "Reino Unido",
+			"nl": "Verenigd Koninkrijk",
+			"hr": "Ujedinjeno Kraljevstvo",
+			"fa": "بریتانیای کبیر و ایرلند شمالی",
+			"de": "Vereinigtes Königreich",
+			"es": "Reino Unido",
+			"fr": "Royaume-Uni",
+			"ja": "イギリス",
+			"it": "Regno Unito",
+			"hu": "Nagy-Britannia"
+		},
+		"independent": false
+	}
+]

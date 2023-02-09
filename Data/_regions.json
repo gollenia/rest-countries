@@ -1,0 +1,146 @@
+{
+	"africa": {
+		"name": "Africa",
+		"translations": {
+			"br": "África",
+			"pt": "África",
+			"nl": "Afrika",
+			"hr": "Afrika",
+			"fa": "آفریقا",
+			"de": "Afrika",
+			"es": "África",
+			"fr": "Afrique",
+			"ja": "アフリカ",
+			"it": "Africa",
+			"hu": "Afrika"
+		}
+	},
+	"america": {
+		"name": "America",
+		"translations": {
+			"br": "América",
+			"pt": "América",
+			"nl": "Amerika",
+			"hr": "Amerika",
+			"fa": "آمریکا",
+			"de": "Amerika",
+			"es": "América",
+			"fr": "Amérique",
+			"ja": "アメリカ",
+			"it": "America",
+			"hu": "Amerika"
+		}
+	},
+	"asia": {
+		"name": "Asia",
+		"translations": {
+			"br": "Ásia",
+			"pt": "Ásia",
+			"nl": "Azië",
+			"hr": "Azija",
+			"fa": "آسیا",
+			"de": "Asien",
+			"es": "Asia",
+			"fr": "Asie",
+			"ja": "アジア",
+			"it": "Asia",
+			"hu": "Ázsia"
+		}
+	},
+	"english": {
+		"name": "English",
+		"translations": {
+			"br": "Inglês",
+			"pt": "Inglês",
+			"nl": "Engels",
+			"hr": "Engleski",
+			"fa": "انگلیسی",
+			"de": "Englisch",
+			"es": "Inglés",
+			"fr": "Anglais",
+			"ja": "英語",
+			"it": "Inglese",
+			"hu": "Angol"
+		}
+	},
+	"europe": {
+		"name": "Europe",
+		"translations": {
+			"br": "Europa",
+			"pt": "Europa",
+			"nl": "Europa",
+			"hr": "Europa",
+			"fa": "اروپا",
+			"de": "Europa",
+			"es": "Europa",
+			"fr": "Europe",
+			"ja": "ヨーロッパ",
+			"it": "Europa",
+			"hu": "Európa"
+		}
+	},
+	"french": {
+		"name": "French",
+		"translations": {
+			"br": "Francês",
+			"pt": "Francês",
+			"nl": "Frans",
+			"hr": "Francuski",
+			"fa": "فرانسوی",
+			"de": "Französisch",
+			"es": "Francés",
+			"fr": "Français",
+			"ja": "フランス語",
+			"it": "Francese",
+			"hu": "Francia"
+		}
+	},
+	"german": {
+		"name": "German",
+		"translations": {
+			"br": "Alemão",
+			"pt": "Alemão",
+			"nl": "Duits",
+			"hr": "Njemački",
+			"fa": "آلمانی",
+			"de": "Deutsch",
+			"es": "Alemán",
+			"fr": "Allemand",
+			"ja": "ドイツ語",
+			"it": "Tedesco",
+			"hu": "Német"
+		}
+	},
+	"spanish": {
+		"name": "Spanish",
+		"translations": {
+			"br": "Espanhol",
+			"pt": "Espanhol",
+			"nl": "Spaans",
+			"hr": "Španjolski",
+			"fa": "اسپانیایی",
+			"de": "Spanisch",
+			"es": "Español",
+			"fr": "Espagnol",
+			"ja": "スペイン語",
+			"it": "Spagnolo",
+			"hu": "Spanyol"
+		}
+	},
+	"world": {
+		"name": "World",
+		"translations": {
+			"br": "Mundo",
+			"pt": "Mundo",
+			"nl": "Wereld",
+			"hr": "Svijet",
+			"fa": "جهان",
+			"de": "Welt",
+			"es": "Mundo",
+			"fr": "Monde",
+			"ja": "世界",
+			"it": "Mondo",
+			"hu": "Világ"
+		}
+	}
+}
